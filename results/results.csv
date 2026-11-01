@@ -1,0 +1,613 @@
+set,algorithm,optimal,length,is_optimal,solves_cube,expanded,generated,max_frontier,ms,solution
+stratified,BFS,1,1,True,True,1,6,1,0.013,R'
+stratified,A* (corners),1,1,True,True,1,9,9,0.04,R'
+stratified,A* (pdb),1,1,True,True,1,9,9,0.012,R'
+stratified,BFS,1,1,True,True,1,9,1,0.007,F'
+stratified,A* (corners),1,1,True,True,1,9,9,0.023,F'
+stratified,A* (pdb),1,1,True,True,1,9,9,0.007,F'
+stratified,BFS,1,1,True,True,1,8,1,0.005,F2
+stratified,A* (corners),1,1,True,True,1,9,9,0.021,F2
+stratified,A* (pdb),1,1,True,True,1,9,9,0.007,F2
+stratified,BFS,1,1,True,True,1,2,1,0.002,U2
+stratified,A* (corners),1,1,True,True,1,9,9,0.02,U2
+stratified,A* (pdb),1,1,True,True,1,9,9,0.006,U2
+stratified,BFS,1,1,True,True,1,1,1,0.002,U
+stratified,A* (corners),1,1,True,True,1,9,9,0.02,U
+stratified,A* (pdb),1,1,True,True,1,9,9,0.006,U
+stratified,BFS,1,1,True,True,1,5,1,0.003,R2
+stratified,A* (corners),1,1,True,True,1,9,9,0.02,R2
+stratified,A* (pdb),1,1,True,True,1,9,9,0.006,R2
+stratified,BFS,1,1,True,True,1,7,1,0.004,F
+stratified,A* (corners),1,1,True,True,1,9,9,0.02,F
+stratified,A* (pdb),1,1,True,True,1,9,9,0.007,F
+stratified,BFS,1,1,True,True,1,4,1,0.003,R
+stratified,A* (corners),1,1,True,True,1,9,9,0.02,R
+stratified,A* (pdb),1,1,True,True,1,9,9,0.006,R
+stratified,BFS,1,1,True,True,1,3,1,0.002,U'
+stratified,A* (corners),1,1,True,True,1,9,9,0.049,U'
+stratified,A* (pdb),1,1,True,True,1,9,9,0.01,U'
+stratified,BFS,2,2,True,True,10,59,49,0.034,F' U2
+stratified,A* (corners),2,2,True,True,3,21,19,0.046,F' U2
+stratified,A* (pdb),2,2,True,True,2,15,14,0.012,F' U2
+stratified,BFS,2,2,True,True,2,14,9,0.007,U F2
+stratified,A* (corners),2,2,True,True,2,15,14,0.219,U F2
+stratified,A* (pdb),2,2,True,True,2,15,14,0.011,U F2
+stratified,BFS,2,2,True,True,7,41,34,0.027,R' U2
+stratified,A* (corners),2,2,True,True,3,21,19,0.044,R' U2
+stratified,A* (pdb),2,2,True,True,2,15,14,0.011,R' U2
+stratified,BFS,2,2,True,True,4,24,19,0.01,U' R'
+stratified,A* (corners),2,2,True,True,2,15,14,0.031,U' R'
+stratified,A* (pdb),2,2,True,True,2,15,14,0.01,U' R'
+stratified,BFS,2,2,True,True,10,62,49,0.022,F' R2
+stratified,A* (corners),2,2,True,True,3,21,19,0.041,F' R2
+stratified,A* (pdb),2,2,True,True,2,15,14,0.01,F' R2
+stratified,BFS,2,2,True,True,4,27,19,0.01,U' F'
+stratified,A* (corners),2,2,True,True,2,15,14,0.031,U' F'
+stratified,A* (pdb),2,2,True,True,2,15,14,0.01,U' F'
+stratified,BFS,2,2,True,True,7,40,34,0.017,R' U
+stratified,A* (corners),2,2,True,True,3,21,19,0.041,R' U
+stratified,A* (pdb),2,2,True,True,2,15,14,0.01,R' U
+stratified,BFS,2,2,True,True,6,36,29,0.013,R2 U'
+stratified,A* (corners),2,2,True,True,3,21,19,0.042,R2 U'
+stratified,A* (pdb),2,2,True,True,2,15,14,0.01,R2 U'
+stratified,BFS,2,2,True,True,7,42,34,0.015,R' U'
+stratified,A* (corners),2,2,True,True,3,21,19,0.072,R' U'
+stratified,A* (pdb),2,2,True,True,2,15,14,0.011,R' U'
+stratified,BFS,2,2,True,True,2,12,9,0.006,U R'
+stratified,A* (corners),2,2,True,True,2,15,14,0.032,U R'
+stratified,A* (pdb),2,2,True,True,2,15,14,0.01,U R'
+stratified,BFS,3,3,True,True,53,318,263,0.12,F2 U R'
+stratified,A* (corners),3,3,True,True,11,69,59,0.136,F2 U R'
+stratified,A* (pdb),3,3,True,True,3,21,19,0.015,F2 U R'
+stratified,BFS,3,3,True,True,11,67,54,0.023,U R F
+stratified,A* (corners),3,3,True,True,3,21,19,0.042,U R F
+stratified,A* (pdb),3,3,True,True,3,21,19,0.014,U R F
+stratified,BFS,3,3,True,True,49,297,243,0.089,F U' F'
+stratified,A* (corners),3,3,True,True,10,63,54,0.114,F U' F'
+stratified,A* (pdb),3,3,True,True,3,21,19,0.015,F U' F'
+stratified,BFS,3,3,True,True,38,229,188,0.072,R2 F R
+stratified,A* (corners),3,3,True,True,10,63,54,0.114,R2 F R
+stratified,A* (pdb),3,3,True,True,3,21,19,0.035,R2 F R
+stratified,BFS,3,3,True,True,11,69,54,0.023,U R F'
+stratified,A* (corners),3,3,True,True,3,21,19,0.042,U R F'
+stratified,A* (pdb),3,3,True,True,3,21,19,0.014,U R F'
+stratified,BFS,3,3,True,True,24,146,119,0.046,U' R2 F2
+stratified,A* (corners),3,3,True,True,6,39,34,0.074,U' R2 F2
+stratified,A* (pdb),3,3,True,True,3,21,19,0.021,U' R2 F2
+stratified,BFS,3,3,True,True,36,216,179,0.064,R2 U2 R'
+stratified,A* (corners),3,3,True,True,8,51,44,0.094,R2 U2 R'
+stratified,A* (pdb),3,3,True,True,3,21,19,0.015,R2 U2 R'
+stratified,BFS,3,3,True,True,49,293,243,0.084,F U' R2
+stratified,A* (corners),3,3,True,True,11,69,59,0.127,F U' R2
+stratified,A* (pdb),3,3,True,True,3,21,19,0.015,F U' R2
+stratified,BFS,3,3,True,True,16,99,79,0.032,U F' R'
+stratified,A* (corners),3,3,True,True,4,27,24,0.051,U F' R'
+stratified,A* (pdb),3,3,True,True,3,21,19,0.014,U F' R'
+stratified,BFS,3,3,True,True,30,178,149,0.065,R U2 R
+stratified,A* (corners),3,3,True,True,8,51,44,0.12,R U2 R
+stratified,A* (pdb),3,3,True,True,3,21,19,0.015,R U2 R
+stratified,BFS,4,4,True,True,317,1901,1530,0.723,F2 U R2 U2
+stratified,A* (corners),4,4,True,True,61,369,308,0.689,F2 U R2 U2
+stratified,A* (pdb),4,4,True,True,4,27,24,0.021,F2 U R2 U2
+stratified,BFS,4,4,True,True,276,1658,1329,0.501,R' F' U' F2
+stratified,A* (corners),4,4,True,True,51,309,258,0.534,R' F' U' F2
+stratified,A* (pdb),4,4,True,True,4,27,24,0.021,R' F' U' F2
+stratified,BFS,4,4,True,True,148,887,723,0.254,U' R2 F' U2
+stratified,A* (corners),4,4,True,True,26,159,133,0.288,U' R2 F' U2
+stratified,A* (pdb),4,4,True,True,4,27,24,0.02,U' R2 F' U2
+stratified,BFS,4,4,True,True,293,1760,1412,0.629,F U' R2 F2
+stratified,A* (corners),4,4,True,True,53,321,268,0.666,F U' R2 F2
+stratified,A* (pdb),4,4,True,True,4,27,24,0.022,F U' R2 F2
+stratified,BFS,4,4,True,True,89,532,440,0.162,U F2 U R
+stratified,A* (corners),4,4,True,True,17,105,89,0.224,U F2 U R
+stratified,A* (pdb),4,4,True,True,4,27,24,0.02,U F2 U R
+stratified,BFS,4,4,True,True,237,1424,1145,0.433,R2 F2 R' F2
+stratified,A* (corners),4,4,True,True,22,135,113,0.24,R2 F2 R' F2
+stratified,A* (pdb),4,4,True,True,5,33,29,0.023,R2 F2 R' F2
+stratified,BFS,4,4,True,True,158,947,773,0.286,U' F R U2
+stratified,A* (corners),4,4,True,True,33,201,169,0.344,U' F R U2
+stratified,A* (pdb),4,4,True,True,4,27,24,0.019,U' F R U2
+stratified,BFS,4,4,True,True,312,1874,1505,0.553,F R' U' F2
+stratified,A* (corners),4,4,True,True,57,345,288,0.586,F R' U' F2
+stratified,A* (pdb),4,4,True,True,7,45,39,0.032,F R' U' F2
+stratified,BFS,4,4,True,True,251,1508,1212,0.47,R' U2 R2 F2
+stratified,A* (corners),4,4,True,True,44,267,222,0.453,R' U2 R2 F2
+stratified,A* (pdb),4,4,True,True,5,33,29,0.024,R' U2 R2 F2
+stratified,BFS,4,4,True,True,204,1223,995,0.358,R F' U2 R2
+stratified,A* (corners),4,4,True,True,37,225,189,0.379,R F' U2 R2
+stratified,A* (pdb),4,4,True,True,4,27,24,0.02,R F' U2 R2
+stratified,BFS,5,5,True,True,1679,10073,7607,3.718,F U2 R' F U2
+stratified,A* (corners),5,5,True,True,291,1749,1408,3.074,F U2 R' F U2
+stratified,A* (pdb),5,5,True,True,5,33,29,0.027,F U2 R' F U2
+stratified,BFS,5,5,True,True,2068,12411,9365,5.464,F' U2 R2 U' F'
+stratified,A* (corners),5,5,True,True,365,2193,1756,4.272,F' U2 R2 U' F'
+stratified,A* (pdb),5,5,True,True,8,51,44,0.045,F' U2 R2 U' F'
+stratified,BFS,5,5,True,True,1199,7193,5502,2.977,R F' U2 R U2
+stratified,A* (corners),5,5,True,True,67,405,336,0.819,R F' U2 R U2
+stratified,A* (pdb),5,5,True,True,5,33,29,0.03,R F' U2 R U2
+stratified,BFS,5,5,True,True,1497,8982,6858,3.181,R' U' R2 U' R'
+stratified,A* (corners),5,5,True,True,269,1617,1302,3.155,R' U' R2 U' R'
+stratified,A* (pdb),5,5,True,True,6,39,34,0.038,R' U' R2 U' R'
+stratified,BFS,5,5,True,True,1252,7513,5747,2.779,R2 U F R' F
+stratified,A* (corners),5,5,True,True,232,1395,1130,3.537,R2 U F R' F
+stratified,A* (pdb),5,5,True,True,8,51,44,0.051,R2 U F R' F
+stratified,BFS,5,5,True,True,1291,7745,5938,3.01,R2 U' R U' R2
+stratified,A* (corners),5,5,True,True,227,1365,1106,3.524,R2 U' R U' R2
+stratified,A* (pdb),5,5,True,True,8,51,44,0.078,R2 U' R U' R2
+stratified,BFS,5,5,True,True,1014,6083,4673,2.311,U' F' R' F U2
+stratified,A* (corners),5,5,True,True,191,1149,939,2.457,U' F' R' F U2
+stratified,A* (pdb),5,5,True,True,7,45,39,0.063,U' F' R' F U2
+stratified,BFS,5,5,True,True,1981,11887,8969,4.675,F2 R2 F U' F
+stratified,A* (corners),5,5,True,True,355,2133,1706,4.175,F2 R2 F U' F
+stratified,A* (pdb),5,5,True,True,8,51,44,0.045,F2 R2 F U' F
+stratified,BFS,5,5,True,True,568,3407,2703,1.183,U F' U F' U2
+stratified,A* (corners),5,5,True,True,102,615,506,1.199,U F' U F' U2
+stratified,A* (pdb),5,5,True,True,5,33,29,0.029,U F' U F' U2
+stratified,BFS,5,5,True,True,1561,9367,7142,3.457,R' F2 U R F
+stratified,A* (corners),5,5,True,True,277,1665,1343,3.364,R' F2 U R F
+stratified,A* (pdb),5,5,True,True,6,39,34,0.037,R' F2 U R F
+stratified,BFS,6,6,True,True,8744,52463,36520,32.383,R' F2 U2 F R U2
+stratified,A* (corners),6,6,True,True,1615,9693,7394,20.067,R' F2 U2 F R U2
+stratified,A* (pdb),6,6,True,True,8,51,44,0.056,R' F2 U2 F R U2
+stratified,BFS,6,6,True,True,9253,55519,38498,23.545,F U2 R2 F U F
+stratified,A* (corners),6,6,True,True,1730,10383,7858,19.828,F U2 R2 F U F
+stratified,A* (pdb),6,6,True,True,28,171,143,0.147,F U2 R2 F U F
+stratified,BFS,6,6,True,True,4193,25156,18188,13.611,U2 F R' U F2 U
+stratified,A* (corners),6,6,True,True,756,4539,3566,15.53,U2 F R' U F2 U
+stratified,A* (pdb),6,6,True,True,17,105,89,0.108,U2 F R' U F2 U
+stratified,BFS,6,6,True,True,10472,62831,43392,30.634,F2 U2 F' R F U2
+stratified,A* (corners),6,6,True,True,574,3447,2724,7.405,F2 U2 F' R F U2
+stratified,A* (pdb),6,6,True,True,27,165,139,0.157,F2 U2 F' R F U2
+stratified,BFS,6,6,True,True,2628,15766,11720,8.578,U R2 F' R2 F U
+stratified,A* (corners),6,6,True,True,535,3213,2567,11.519,U R2 F' R2 F U
+stratified,A* (pdb),6,6,True,True,7,45,39,0.068,U R2 F' R2 F U
+stratified,BFS,6,6,True,True,9985,59912,41490,33.078,F R' U2 R U F2
+stratified,A* (corners),6,6,True,True,1892,11355,8543,28.793,F R' U2 R U F2
+stratified,A* (pdb),6,6,True,True,11,69,59,0.114,F R' U2 R U F2
+stratified,BFS,6,6,True,True,4979,29872,21479,14.98,U' R' U2 R U' R
+stratified,A* (corners),6,6,True,True,928,5571,4309,11.717,U' R' U2 R U' R
+stratified,A* (pdb),6,6,True,True,8,51,44,0.089,U' R' U2 R U' R
+stratified,BFS,6,6,True,True,10307,61844,42672,34.249,F2 U F' U R F2
+stratified,A* (corners),6,6,True,True,1941,11649,8792,28.639,F2 U F' U R F2
+stratified,A* (pdb),6,6,True,True,19,117,99,0.13,F2 U F' U R F2
+stratified,BFS,6,6,True,True,5601,33608,23894,13.531,U' F' U' F' R2 F2
+stratified,A* (corners),6,6,True,True,1027,6165,4745,13.35,U' F' U' F' R2 F2
+stratified,A* (pdb),6,6,True,True,15,93,79,0.139,U' F' U' F' R2 F2
+stratified,BFS,6,6,True,True,7908,47448,33251,19.531,R2 F' R2 F U R'
+stratified,A* (corners),6,6,True,True,1477,8865,6815,18.127,R2 F' R2 F U R'
+stratified,A* (pdb),6,6,True,True,23,141,118,0.129,R2 F' R2 F U R'
+stratified,BFS,7,7,True,True,44475,266853,167137,163.72,R' F U' F U' R F'
+stratified,A* (corners),7,7,True,True,8825,52953,36991,120.614,R' F U' F U' R F'
+stratified,A* (pdb),7,7,True,True,151,909,756,0.872,R' F U' F U' R F'
+stratified,BFS,7,7,True,True,60590,363540,221904,213.251,F' R F2 U' R' F U'
+stratified,A* (corners),7,7,True,True,12093,72561,49831,189.658,F' R F2 U' R' F U'
+stratified,A* (pdb),7,7,True,True,61,369,306,0.385,F' R F2 U' R' F U'
+stratified,BFS,7,7,True,True,28644,171863,110965,84.072,U' F2 R U2 R' U2 R2
+stratified,A* (corners),7,7,True,True,5593,33561,23967,73.082,U' F2 R U2 R' U2 R2
+stratified,A* (pdb),7,7,True,True,32,195,164,0.292,U' F2 R U2 R' U2 R2
+stratified,BFS,7,7,True,True,33092,198550,126998,97.088,R F U F2 R' U R
+stratified,A* (corners),7,7,True,True,2336,14019,10483,29.412,R F U F2 R' U R
+stratified,A* (pdb),7,7,True,True,73,441,368,0.358,R F U F2 R' U R
+stratified,BFS,7,7,True,True,49825,298948,185523,174.326,F R U' R' F U' R
+stratified,A* (corners),7,7,True,True,9905,59433,41259,146.692,F R U' R' F U' R
+stratified,A* (pdb),7,7,True,True,72,435,358,0.38,F R U' R' F U' R
+stratified,BFS,7,7,True,True,17075,102450,68726,44.67,U F2 R U2 R2 F' U'
+stratified,A* (corners),7,7,True,True,3285,19713,14521,48.851,U F2 R U2 R2 F' U'
+stratified,A* (pdb),7,7,True,True,21,129,109,0.131,U F2 R U2 R2 F' U'
+stratified,BFS,7,7,True,True,31978,191867,122941,99.002,R U' R U R2 F' U2
+stratified,A* (corners),7,7,True,True,6694,40167,28626,92.344,R U' R U R2 F' U2
+stratified,A* (pdb),7,7,True,True,133,801,658,0.726,R U' R U R2 F' U2
+stratified,BFS,7,7,True,True,30867,185203,118776,100.538,R U F' R U' R F
+stratified,A* (corners),7,7,True,True,6069,36417,25817,81.868,R U F' R U' R F
+stratified,A* (pdb),7,7,True,True,51,309,256,0.325,R U F' R U' R F
+stratified,BFS,7,7,True,True,40512,243070,153625,146.652,R2 F' U R2 F' U R
+stratified,A* (corners),7,7,True,True,7865,47193,33187,105.874,R2 F' U R2 F' U R
+stratified,A* (pdb),7,7,True,True,53,321,269,0.304,R2 F' U R2 F' U R
+stratified,BFS,7,7,True,True,57217,343303,210957,184.714,F2 R' F2 R F' U F
+stratified,A* (corners),7,7,True,True,2408,14451,10786,28.668,F2 R' F2 R F' U F
+stratified,A* (pdb),7,7,True,True,121,729,598,0.646,F2 R' F2 R F' U F
+stratified,BFS,8,8,True,True,187756,1126539,606331,850.839,R2 F U' R' F R' F R'
+stratified,A* (corners),8,8,True,True,40013,240081,152737,605.597,R2 F U' R' F R' F R'
+stratified,A* (pdb),8,8,True,True,181,1089,887,1.111,R2 F U' R' F R' F R'
+stratified,BFS,8,8,True,True,273416,1640497,831074,1216.172,F' U2 R U' R F' R' F
+stratified,A* (corners),8,8,True,True,12498,74991,51439,166.775,F' U2 R U' R F' R' F
+stratified,A* (pdb),8,8,True,True,205,1233,994,1.326,F' U2 R U' R F' R' F
+stratified,BFS,8,8,True,True,67613,405679,245025,205.14,U R F' R' F R' U' F
+stratified,A* (corners),8,8,True,True,21431,128589,85665,277.82,U R F' R' F R' U' F
+stratified,A* (pdb),8,8,True,True,167,1005,833,0.901,R U F' R2 U' F' R F2
+stratified,BFS,8,8,True,True,85135,510808,302321,296.902,U F2 U' R' F U2 R U
+stratified,A* (corners),8,8,True,True,18163,108981,73309,303.587,U F2 U' R' F U2 R U
+stratified,A* (pdb),8,8,True,True,232,1395,1139,1.258,R' F' R2 F U2 F U R
+stratified,BFS,8,8,True,True,169314,1015884,553852,697.521,R F' U F' U R F' U'
+stratified,A* (corners),8,8,True,True,35951,215709,138160,512.754,R F' U F' U R F' U'
+stratified,A* (pdb),8,8,True,True,392,2355,1927,1.837,R F' U F' U R F' U'
+stratified,BFS,8,8,True,True,180448,1082687,585736,830.348,R2 U2 F2 U' F U2 R' U2
+stratified,A* (corners),8,8,True,True,12616,75699,51949,189.521,R2 U2 F2 U' F U2 R' U2
+stratified,A* (pdb),8,8,True,True,528,3171,2539,2.754,R2 U2 F2 U' F U2 R' U2
+stratified,BFS,8,8,True,True,230445,1382668,720163,961.985,F U' R2 U F' U R U
+stratified,A* (corners),8,8,True,True,49650,297903,185911,791.033,F U' R2 U F' U R U
+stratified,A* (pdb),8,8,True,True,349,2097,1719,2.018,F U' R2 U F' U R U
+stratified,BFS,8,8,True,True,250885,1505309,774046,1132.794,F2 U2 R F' R' F R2 U2
+stratified,A* (corners),8,8,True,True,54420,326523,202675,840.533,F2 U2 R F' R' F R2 U2
+stratified,A* (pdb),8,8,True,True,176,1059,864,0.982,F2 U2 R F' R' F R2 U2
+stratified,BFS,8,8,True,True,236799,1420793,736884,1005.238,F R F2 R' U F' R U2
+stratified,A* (corners),8,8,True,True,52297,313785,195413,743.093,F R F2 R' U F' R U2
+stratified,A* (pdb),8,8,True,True,338,2031,1645,1.637,F R F2 R' U F' R U2
+stratified,BFS,8,8,True,True,64935,389608,236227,202.141,U R U' F' U F' R U
+stratified,A* (corners),8,8,True,True,12619,75717,51971,170.758,R F' U R F' U' R U
+stratified,A* (pdb),8,8,True,True,213,1281,1037,1.12,U R U' F' U F' R U
+stratified,BFS,9,9,True,True,363731,2182387,1040561,1684.558,U F U2 F2 R' U' F2 U' F
+stratified,A* (corners),9,9,True,True,64327,385965,236065,1095.252,U' R' F' U2 R2 F R' U2 R
+stratified,A* (pdb),9,9,True,True,1168,7011,5453,6.661,R U' F2 U' R' F2 U2 F U
+stratified,BFS,9,9,True,True,475948,2855691,1265861,2276.857,U2 R' F' R U' R2 F2 R' F'
+stratified,A* (corners),9,9,True,True,64870,389223,238232,1065.942,R' U R U' F R U' F2 U
+stratified,A* (pdb),9,9,True,True,877,5265,4227,4.791,R F2 R' F U2 R2 U R2 U2
+stratified,BFS,9,9,True,True,949721,5698327,1818022,4395.679,F U' R F' U' F2 U' R' F
+stratified,A* (corners),9,9,True,True,239703,1438221,751131,3941.58,F U' R F' U' F2 U' R' F
+stratified,A* (pdb),9,9,True,True,1652,9915,7731,9.465,F U' R F' U' F2 U' R' F
+stratified,BFS,9,9,True,True,976115,5856690,1832179,4433.253,F R F' R' U' R U' R2 U'
+stratified,A* (corners),9,9,True,True,64179,385077,235602,969.368,F' U2 R2 F U2 F' R U R'
+stratified,A* (pdb),9,9,True,True,723,4341,3512,4.627,F R F' R' U' R U' R2 U'
+stratified,BFS,9,9,True,True,304986,1829918,906513,1314.456,U R F2 U R' F U2 F2 R2
+stratified,A* (corners),9,9,True,True,64336,386019,236126,1006.061,F U F' U' F R' F2 U F2
+stratified,A* (pdb),9,9,True,True,1123,6741,5345,5.843,U R F2 U R' F U2 F2 R2
+stratified,BFS,9,9,True,True,899199,5395193,1785710,4139.348,R' F2 R F U' R2 F R U2
+stratified,A* (corners),9,9,True,True,221909,1331457,703419,3728.789,R' F2 R F U' R2 F R U2
+stratified,A* (pdb),9,9,True,True,2580,15483,11983,15.223,F2 U' R' U' R2 F R2 F' R
+stratified,BFS,9,9,True,True,496861,2981166,1303822,2317.866,U2 F2 U R2 U' F U' F U'
+stratified,A* (corners),9,9,True,True,118144,708867,409044,1957.718,U2 F2 U R2 U' F U' F U'
+stratified,A* (pdb),9,9,True,True,811,4869,3819,4.536,U2 F2 U R2 U' F U' F U'
+stratified,BFS,9,9,True,True,920245,5521468,1800208,4362.064,F U R' U F U2 F U' R
+stratified,A* (corners),9,9,True,True,228050,1368303,719740,3708.484,F U R' U F U2 F U' R
+stratified,A* (pdb),9,9,True,True,3485,20913,15992,21.443,F U R' U F U2 F U' R
+stratified,BFS,9,9,True,True,397377,2384264,1112827,1890.603,U F2 R' U' F U R' U F2
+stratified,A* (corners),9,9,True,True,95206,571239,338204,1670.775,U F2 R' U' F U R' U F2
+stratified,A* (pdb),9,9,True,True,941,5649,4486,5.4,F2 R U R U2 R U R2 U2
+stratified,BFS,9,9,True,True,702377,4214261,1606604,3237.799,R F2 U R2 U R' F' U R2
+stratified,A* (corners),9,9,True,True,167428,1004571,552402,2673.709,R F2 U R2 U R' F' U R2
+stratified,A* (pdb),9,9,True,True,524,3147,2536,3.275,F' R' U R2 F' R U2 R2 U'
+stratified,BFS,10,10,True,True,1660666,9963995,1899827,7398.123,U2 R2 U' F2 U F2 R' F R U2
+stratified,A* (corners),10,10,True,True,298218,1789311,900197,4696.433,R2 U R2 F2 U' R2 U2 R' F R
+stratified,A* (pdb),10,10,True,True,5715,34293,26001,37.511,F2 R2 U R' F2 R2 F' R2 F' R
+stratified,BFS,10,10,True,True,1429698,8578187,1899827,6330.408,U F R2 U2 F2 R' F R F U2
+stratified,A* (corners),10,10,True,True,295767,1774605,893469,4659.64,R U2 F U' F2 R F' R' F R
+stratified,A* (pdb),10,10,True,True,4401,26409,20059,28.315,U' R U2 F' R2 F' R' U' R2 U2
+stratified,BFS,10,10,True,True,1186991,7121946,1893082,5211.525,U R U' R U2 R2 U F' U2 R'
+stratified,A* (corners),10,10,True,True,295883,1775301,893972,4596.596,F R2 U2 F' R F2 U' F' U F
+stratified,A* (pdb),10,10,True,True,3285,19713,15369,19.899,F2 R F U F2 U F2 R F' R
+stratified,BFS,10,10,True,True,1981666,11889999,1899827,8639.918,U' R2 F' R F R2 U2 F2 U' F'
+stratified,A* (corners),10,10,True,True,296552,1779315,895775,4672.542,F' R' F R2 U' R' U2 F' U' F
+stratified,A* (pdb),10,10,True,True,4428,26571,20324,27.182,R2 U R' F R U2 F' R F2 R2
+stratified,BFS,10,10,True,True,1628491,9770946,1899827,7056.366,U2 R F' U R2 F2 U R' U2 R'
+stratified,A* (corners),10,10,True,True,300621,1803729,906650,4346.69,F2 R' U2 R U' R F U' F U
+stratified,A* (pdb),10,10,True,True,3789,22737,17531,22.826,F2 R' U2 R U' R F U' F U
+stratified,BFS,10,10,True,True,1410203,8461216,1899827,6294.211,U F U' R2 F U' R F2 U2 R
+stratified,A* (corners),10,10,True,True,397408,2384451,1129916,6055.667,U F U' R2 F U' R F2 U2 R
+stratified,A* (pdb),10,10,True,True,5306,31839,24280,33.607,R U' F2 U F U2 F U2 F R'
+stratified,BFS,10,10,True,True,2169111,13014668,1899827,8895.89,R U F2 U R U' F R' F R2
+stratified,A* (corners),10,10,True,True,298337,1790025,899721,4818.068,R F' R U2 R F' U2 R' U R
+stratified,A* (pdb),10,10,True,True,6310,37863,28441,46.492,R U F2 U R U' F R' F R2
+stratified,BFS,10,10,True,True,1461975,8771850,1899827,6552.763,U F2 U F' U2 R' U R U2 R'
+stratified,A* (corners),10,10,True,True,296409,1778457,895369,4895.549,U F2 U F' U2 R' U R U2 R'
+stratified,A* (pdb),10,10,True,True,3689,22137,16814,25.135,R' U F U' R' F U2 R2 U R2
+stratified,BFS,10,10,True,True,2159048,12954287,1899827,9469.098,R U R' U2 F2 R' U R2 U R2
+stratified,A* (corners),10,10,True,True,297668,1786011,898828,4848.964,R U R' U2 F2 R' U R2 U R2
+stratified,A* (pdb),10,10,True,True,3213,19281,14942,21.313,R U R' U2 F2 R' U R2 U R2
+stratified,BFS,10,10,True,True,2158908,12953450,1899827,9152.35,R U R' U2 F2 U' R' U' R F2
+stratified,A* (corners),10,10,True,True,297935,1787613,898679,4932.61,R U F2 U R' F R F2 R F2
+stratified,A* (pdb),10,10,True,True,4260,25563,19471,29.682,R U F2 U R' F R F2 R F2
+stratified,BFS,11,11,True,True,3147386,18884316,1899827,13346.948,U R2 U F R2 F2 R' F U2 R' U'
+stratified,A* (corners),11,11,True,True,1171125,7026753,1916500,15645.926,R2 F U R' U F2 U' F U' R' U
+stratified,A* (pdb),11,11,True,True,17846,107079,78506,160.939,U2 R U R U2 F' U R' U R' U'
+stratified,BFS,11,11,True,True,3166326,18997954,1899827,14565.897,U R2 U' R F U R' U R' F2 U
+stratified,A* (corners),11,11,True,True,1170186,7021119,1917060,15745.968,U' R U' F2 R2 U F' R F' R' F
+stratified,A* (pdb),11,11,True,True,22029,132177,95633,173.836,R F R F' U2 F U' R' F U R2
+stratified,BFS,11,11,True,True,3348706,20092238,1899827,14237.584,U F2 U' F2 U R' F' U F2 R F2
+stratified,A* (corners),11,11,True,True,1173813,7042881,1916603,15081.676,U F2 U' F2 U R' F' U F2 R F2
+stratified,A* (pdb),11,11,True,True,18478,110871,80672,150.619,R2 F' R F' R2 F U' F' U F2 U2
+stratified,BFS,11,11,True,True,3286335,19718008,1899827,14146.59,U F U2 R' F2 R' U F' R2 U2 R
+stratified,A* (corners),11,11,True,True,1174634,7047807,1916904,15986.173,U2 R' U F' U2 R F' R U F U'
+stratified,A* (pdb),11,11,True,True,16756,100539,73426,130.559,R2 U2 R F U2 R' F2 U F' U2 F2
+stratified,BFS,11,11,True,True,3133839,18803032,1899827,13325.788,U R F' R2 U2 R U R F' R2 U
+stratified,A* (corners),11,11,True,True,1178135,7068813,1915771,15225.141,R U2 F' R F R U2 R2 F' U F
+stratified,A* (pdb),11,11,True,True,20788,124731,89369,158.999,R F2 R U' F U' R U' R' U2 R2
+stratified,BFS,11,11,True,True,3337627,20025762,1899827,13902.094,U F2 U2 R2 F' U' F R' U2 R U'
+stratified,A* (corners),11,11,True,True,1176197,7057185,1916824,15824.858,U' R2 U F' R' U' R U2 F' R F
+stratified,A* (pdb),11,11,True,True,18464,110787,80122,174.356,F' R2 F2 R' U' F2 R U2 R U2 R2
+stratified,BFS,11,11,True,True,3094503,18567018,1899827,13509.132,U R U' F' R U' R' F R' F U'
+stratified,A* (corners),11,11,True,True,1170483,7022901,1916331,15498.556,U' R U' R F' R' U F' U' F U
+stratified,A* (pdb),11,11,True,True,18525,111153,80315,151.61,U2 F R F' R2 U R' F R2 F2 R'
+stratified,BFS,11,11,True,True,3324775,19948651,1899827,14230.031,U F R' F2 U2 F R U R' U2 F
+stratified,A* (corners),11,11,True,True,1185261,7111569,1915861,15774.119,F' R2 F' U R F' U2 F2 U' R U
+stratified,A* (pdb),11,11,True,True,21194,127167,91269,203.024,R F2 R F' R F' R F' U' F2 U2
+stratified,BFS,11,11,True,True,3363662,20181971,1899827,14473.418,U F2 R' U F2 U2 F' U F2 R' U2
+stratified,A* (corners),11,11,True,True,1170087,7020525,1916825,14928.225,R' F R F R2 U' F' R F' R' F
+stratified,A* (pdb),11,11,True,True,17277,103665,75582,128.232,F R U' F2 R' F U F U2 F2 U
+stratified,BFS,11,11,True,True,3429087,20574520,1899827,14435.91,U2 R F U' F U R2 U2 F' U' R
+stratified,A* (corners),11,11,True,True,1176621,7059729,1917229,15657.659,U' F U2 F' U2 R F R F U2 F'
+stratified,A* (pdb),11,11,True,True,20645,123873,89398,181.834,R U2 F' U' R U F' R2 U2 R U
+uniform,BFS,7,7,True,True,39585,237509,150366,187.717,R2 F R' F R2 F' U2
+uniform,A* (corners),7,7,True,True,7812,46875,32981,122.257,R2 F R' F R2 F' U2
+uniform,A* (pdb),7,7,True,True,51,309,259,0.306,R2 F R' F R2 F' U2
+uniform,BFS,9,9,True,True,679323,4075938,1578624,2817.201,R U' F R' U R' U R' U'
+uniform,A* (corners),9,9,True,True,64498,386991,236789,1028.974,R U' F R' U R' U R' U'
+uniform,A* (pdb),9,9,True,True,824,4947,3904,4.907,R U' F R' U R' U R' U'
+uniform,BFS,8,8,True,True,176523,1059139,574534,747.115,R2 U F2 U2 F' U' F2 R
+uniform,A* (corners),8,8,True,True,39106,234639,149889,630.003,R2 U F2 U2 F' U' F2 R
+uniform,A* (pdb),8,8,True,True,246,1479,1188,1.32,R2 U' F2 U2 F U' F2 R
+uniform,BFS,8,8,True,True,123714,742285,421135,440.316,U' R F2 R2 U' R U2 F
+uniform,A* (corners),8,8,True,True,25903,155421,101889,380.695,U' R F2 R2 U' R U2 F
+uniform,A* (pdb),8,8,True,True,715,4293,3396,4.086,F R U R' U2 F2 U R2
+uniform,BFS,10,10,True,True,1486087,8916525,1899827,6491.679,U F2 U' F' R2 F' U' F2 R F'
+uniform,A* (corners),10,10,True,True,296175,1777053,894911,4640.949,R2 U2 R U2 R F R2 F R2 F'
+uniform,A* (pdb),10,10,True,True,5620,33723,25931,39.328,F2 U F' R U R' F2 R' F' R2
+uniform,BFS,10,10,True,True,1353206,8119237,1899827,5935.719,U R' F U2 R' F2 R' U' F2 R
+uniform,A* (corners),10,10,True,True,296035,1776213,894619,4761.578,U' R2 F' U F2 U2 R F' R' F
+uniform,A* (pdb),10,10,True,True,5093,30561,23189,48.15,R U F' U' F U2 F R U2 F2
+uniform,BFS,9,9,True,True,320683,1924101,943776,1400.692,U R2 U2 F' R F2 U2 R F'
+uniform,A* (corners),9,9,True,True,75145,450873,272995,1213.373,U R2 U2 F' R F2 U2 R F'
+uniform,A* (pdb),9,9,True,True,1220,7323,5842,7.428,U' F R2 F2 U2 R F2 R F'
+uniform,BFS,7,7,True,True,14466,86798,58806,43.98,U R' U R' U F R2
+uniform,A* (corners),7,7,True,True,2784,16707,12439,38.42,U R' U R' U F R2
+uniform,A* (pdb),7,7,True,True,98,591,476,0.553,U R' U R' U F R2
+uniform,BFS,9,9,True,True,367246,2203477,1048433,1711.051,U F U' F2 U' R F' R F
+uniform,A* (corners),9,9,True,True,64241,385449,235827,939.097,F R F2 U F' U2 F' U2 F
+uniform,A* (pdb),9,9,True,True,1915,11493,8945,11.803,U F U' F2 U' R F' R F
+uniform,BFS,8,8,True,True,153749,922492,508147,568.913,R U2 F2 R2 U F' U' R
+uniform,A* (corners),8,8,True,True,12895,77373,53127,191.549,R U2 F2 R2 U F' U' R
+uniform,A* (pdb),8,8,True,True,334,2007,1584,1.821,F2 U2 F R' U' F U' R2
+uniform,BFS,9,9,True,True,1069832,6418992,1867514,4712.239,F2 R2 U' F' R F2 R' F U'
+uniform,A* (corners),9,9,True,True,64224,385347,235886,1415.631,F' R2 U2 F R2 F' R2 F R2
+uniform,A* (pdb),9,9,True,True,657,3945,3173,4.157,F' U2 F' R2 U2 F' R2 F R2
+uniform,BFS,10,10,True,True,1951898,11711391,1899827,8762.76,U' R2 U F' U' R U' R2 U F'
+uniform,A* (corners),10,10,True,True,314105,1884633,941529,5012.251,F U' R2 U' R2 U2 R' F R U2
+uniform,A* (pdb),10,10,True,True,4545,27273,20869,41.276,F U R' F2 R2 F' R2 F' R U2
+uniform,BFS,9,9,True,True,1012783,6076699,1848719,4569.504,F2 U R' U F R' F2 U' F
+uniform,A* (corners),9,9,True,True,65254,391527,239680,1022.619,F' R F' R' U R' F' U' F
+uniform,A* (pdb),9,9,True,True,1048,6291,5032,6.466,F' R U2 R U' R U2 F U
+uniform,BFS,8,8,True,True,224826,1348954,704426,1098.571,F U F' R' U2 R' F U
+uniform,A* (corners),8,8,True,True,48487,290925,181653,785.595,F U F' R' U2 R' F U
+uniform,A* (pdb),8,8,True,True,917,5505,4365,5.931,F U F' R' U2 R' F U
+uniform,BFS,8,8,True,True,270494,1622966,823850,1210.619,F' U R' U2 R' F R F2
+uniform,A* (corners),8,8,True,True,59066,354399,218339,989.249,F' U R' U2 R' F R F2
+uniform,A* (pdb),8,8,True,True,489,2937,2348,3.067,F' U R' U2 R' F R F2
+uniform,BFS,8,8,True,True,89766,538594,317070,333.549,U F' U2 F' R2 F' R' U
+uniform,A* (corners),8,8,True,True,18612,111675,75047,278.273,U F' U2 F' R2 F' R' U
+uniform,A* (pdb),8,8,True,True,150,903,748,0.901,U F' U2 F' R2 F' R' U
+uniform,BFS,9,9,True,True,650500,3903003,1542423,3040.643,R U2 R F' U2 F' R U F'
+uniform,A* (corners),9,9,True,True,154255,925533,513787,2340.34,R U2 R F' U2 F' R U F'
+uniform,A* (pdb),9,9,True,True,1637,9825,7750,10.655,R' F' U2 R2 U' R' U2 R' F2
+uniform,BFS,9,9,True,True,313085,1878512,925826,1308.786,U R2 U R U' F2 R U' F2
+uniform,A* (corners),9,9,True,True,64875,389253,238217,923.029,F U2 F2 R' F' R' F U2 F'
+uniform,A* (pdb),9,9,True,True,1194,7167,5725,7.358,U2 R' F' U2 R U R2 U R'
+uniform,BFS,10,10,True,True,1213232,7279391,1896900,5207.496,U R F2 U2 R' U F2 R' U' R2
+uniform,A* (corners),10,10,True,True,296857,1781145,896563,4708.225,U2 R2 F U' R2 F2 U R2 U' R2
+uniform,A* (pdb),10,10,True,True,4018,24111,18330,25.078,F R' F2 R' F2 R' F U2 F2 U
+uniform,BFS,8,8,True,True,105275,631648,365558,376.203,U2 R' F R' U F' U2 R
+uniform,A* (corners),8,8,True,True,21874,131247,87201,316.544,U2 R' F R' U F' U2 R
+uniform,A* (pdb),8,8,True,True,783,4701,3695,4.409,U2 R' F R' U F' U2 R
+uniform,BFS,9,9,True,True,873285,5239710,1766829,3599.941,R' U' F2 R F' R' F U' R'
+uniform,A* (corners),9,9,True,True,214937,1289625,685662,3447.087,R' U' F2 R F' R' F U' R'
+uniform,A* (pdb),9,9,True,True,559,3357,2748,5.602,F2 R F' U R2 U' F U' F2
+uniform,BFS,9,9,True,True,433923,2603540,1186413,1888.444,U2 R F2 U' R2 U' F' R F2
+uniform,A* (corners),9,9,True,True,102042,612255,359031,1479.008,U2 R F2 U' R2 U' F' R F2
+uniform,A* (pdb),9,9,True,True,959,5757,4554,5.302,F' U2 R2 U F R F R2 F2
+uniform,BFS,8,8,True,True,175572,1053433,571783,630.087,R2 U F U F R' U' F
+uniform,A* (corners),8,8,True,True,12637,75825,52037,169.384,R2 U F' R' U' F R F'
+uniform,A* (pdb),8,8,True,True,119,717,579,0.703,R2 U F U F R' U' F
+uniform,BFS,8,8,True,True,242997,1457980,753601,953.421,F R' U2 R' F R2 U' R
+uniform,A* (corners),8,8,True,True,52348,314091,195302,781.116,F R' U2 R' F R2 U' R
+uniform,A* (pdb),8,8,True,True,653,3921,3147,3.597,F R' U2 R' F R2 U' R
+uniform,BFS,8,8,True,True,191020,1146122,615194,751.082,R2 F2 U2 R F' U R2 F2
+uniform,A* (corners),8,8,True,True,40767,244605,155376,631.589,R2 F2 U2 R F' U R2 F2
+uniform,A* (pdb),8,8,True,True,147,885,708,0.921,R2 F2 U2 R F' U R2 F2
+uniform,BFS,9,9,True,True,462138,2772827,1241197,2149.333,U2 R' U2 R F' U R' F U2
+uniform,A* (corners),9,9,True,True,66559,399357,243970,1151.172,U' F' R U' R2 U F' U' R
+uniform,A* (pdb),9,9,True,True,1116,6699,5310,6.623,U2 R' U2 R F' U R' F U2
+uniform,BFS,10,10,True,True,2027003,12162016,1899827,9193.136,U' F U R' U R' U R' U2 R
+uniform,A* (corners),10,10,True,True,298584,1791507,900999,5019.496,U' F U R' U R' U R' U2 R
+uniform,A* (pdb),10,10,True,True,5534,33207,25488,42.479,R U2 R' F' R2 U2 R' U' F R'
+uniform,BFS,9,9,True,True,1037709,6226252,1857664,4799.92,F2 U' R F2 R U2 F U R
+uniform,A* (corners),9,9,True,True,258498,1550991,800252,4249.117,F2 U' R F2 R U2 F U R
+uniform,A* (pdb),9,9,True,True,1974,11847,9288,22.476,F2 U' R F2 R U2 F U R
+uniform,BFS,9,9,True,True,506408,3038448,1320869,2354.99,U2 F2 R2 U F' U2 R' F U'
+uniform,A* (corners),9,9,True,True,66424,398547,244302,1070.616,F' R U2 R U R2 U2 F2 U
+uniform,A* (pdb),9,9,True,True,1994,11967,9318,11.775,U2 F' R2 U R2 U R F' U2
+uniform,BFS,9,9,True,True,473394,2840363,1261427,2282.355,U2 R' F2 R F' U' R' F2 U2
+uniform,A* (corners),9,9,True,True,110379,662277,385381,1852.667,U2 R' F2 R F' U' R' F2 U2
+uniform,A* (pdb),9,9,True,True,1025,6153,4908,6.611,F R' U2 F U' F2 R' U R'
+uniform,BFS,9,9,True,True,795903,4775419,1703141,3470.658,R2 F R U F2 R2 U2 R' F
+uniform,A* (corners),9,9,True,True,195147,1170885,633174,3006.533,R2 F R U F2 R2 U2 R' F
+uniform,A* (pdb),9,9,True,True,2720,16323,12620,18.921,R2 F R U F2 R2 U2 R' F
+uniform,BFS,10,10,True,True,1634150,9804902,1899827,7554.662,U2 R F' R U2 F' R U' F2 R2
+uniform,A* (corners),10,10,True,True,453755,2722533,1238961,7616.992,U2 R F' R U2 F' R U' F2 R2
+uniform,A* (pdb),10,10,True,True,3769,22617,17537,26.163,U2 R F' R U2 F' R U' F2 R2
+uniform,BFS,8,8,True,True,270806,1624838,824605,1351.984,F' U R' F R2 F R2 F2
+uniform,A* (corners),8,8,True,True,58747,352485,217159,1005.535,F' U R' F R2 F R2 F2
+uniform,A* (pdb),8,8,True,True,134,807,661,1.048,F' U R' F R2 F R2 F2
+uniform,BFS,9,9,True,True,884811,5308865,1775656,4066.893,R' F R F2 R F' U' F U2
+uniform,A* (corners),9,9,True,True,216382,1298295,688643,3620.384,R' F R F2 R F' U' F U2
+uniform,A* (pdb),9,9,True,True,2823,16941,12992,18.324,R' F R F2 R F' U' F U2
+uniform,BFS,9,9,True,True,494162,2964974,1299111,2380.582,U2 F R' U' F2 U' F U' F2
+uniform,A* (corners),9,9,True,True,114368,686211,396693,2091.354,U2 F R' U' F2 U' F U' F2
+uniform,A* (pdb),9,9,True,True,561,3369,2693,3.296,U2 F R' U' F2 U' F U' F2
+uniform,BFS,9,9,True,True,541146,3246874,1379778,2351.235,U' R F R U2 F2 U R' U
+uniform,A* (corners),9,9,True,True,64147,384885,235526,1253.321,U' R F' U2 F2 R' U' R' U
+uniform,A* (pdb),9,9,True,True,1023,6141,4956,11.092,F R U2 F' U R2 U F' R
+uniform,BFS,8,8,True,True,193069,1158413,620878,835.833,R2 F2 R F' R' U R2 U2
+uniform,A* (corners),8,8,True,True,41589,249537,158393,643.182,R2 F2 R F' R' U R2 U2
+uniform,A* (pdb),8,8,True,True,124,747,617,0.802,R2 F2 R F' R' U R2 U2
+uniform,BFS,9,9,True,True,427351,2564108,1173670,2094.559,U2 R U' R2 F R' U' F R2
+uniform,A* (corners),9,9,True,True,98489,590937,347399,1754.457,U2 R U' R2 F R' U' F R2
+uniform,A* (pdb),9,9,True,True,1694,10167,7991,9.717,U2 R U' R2 F R' U' F R2
+uniform,BFS,9,9,True,True,359379,2156276,1030510,1710.88,U F U F2 U2 R2 F' R F2
+uniform,A* (corners),9,9,True,True,89363,536181,319964,1649.54,U F U F2 U2 R2 F' R F2
+uniform,A* (pdb),9,9,True,True,746,4479,3604,5.568,U F U' R2 F2 U2 F R F2
+uniform,BFS,10,10,True,True,1373111,8238667,1899827,6237.036,U R' F2 R' U' R2 U' R' U2 F
+uniform,A* (corners),10,10,True,True,300028,1800171,905201,4841.456,F2 R U F' R2 U F U' F2 U
+uniform,A* (pdb),10,10,True,True,3537,21225,16376,23.401,U2 F' U R' U2 F R' U R' U2
+uniform,BFS,9,9,True,True,566288,3397729,1420244,2697.411,U' R' U R2 F' R2 F R2 F
+uniform,A* (corners),9,9,True,True,68320,409923,251039,1198.34,U' R' U R2 F' R2 F R2 F
+uniform,A* (pdb),9,9,True,True,3264,19587,15163,24.935,U' R' U R2 F' R2 F R2 F
+uniform,BFS,8,8,True,True,217527,1305162,685855,947.409,R' F2 R' F' U' R2 F2 U'
+uniform,A* (corners),8,8,True,True,46847,281085,176444,765.427,R' F2 R' F' U' R2 F2 U'
+uniform,A* (pdb),8,8,True,True,586,3519,2812,3.631,R' F2 R' F' U' R2 F2 U'
+uniform,BFS,8,8,True,True,135244,811464,454800,512.502,U' F U' F2 R U' R2 U'
+uniform,A* (corners),8,8,True,True,28953,173721,112954,419.317,U' F U' F2 R U' R2 U'
+uniform,A* (pdb),8,8,True,True,174,1047,859,1.037,U' F U' F2 R U' R2 U'
+uniform,BFS,9,9,True,True,292162,1752972,875471,1252.511,U R U F2 U' F U R2 U'
+uniform,A* (corners),9,9,True,True,64086,384519,235324,996.183,U R U F2 U' F U R2 U'
+uniform,A* (pdb),9,9,True,True,577,3465,2849,3.702,U R U F2 U' F U R2 U'
+uniform,BFS,10,10,True,True,1459973,8759841,1899827,6955.933,U F2 U F2 U2 R' F U2 F' R'
+uniform,A* (corners),10,10,True,True,297609,1785657,898639,4652.823,U' R' F U2 R' F' U2 R2 U' R2
+uniform,A* (pdb),10,10,True,True,3137,18825,14525,21.387,U' R' F U2 R' F' U2 R2 U' R2
+uniform,BFS,9,9,True,True,291046,1746274,872833,1272.12,U R U R' U F2 U' F' U
+uniform,A* (corners),9,9,True,True,64301,385809,236103,979.843,U R U R' U F2 U' F' U
+uniform,A* (pdb),9,9,True,True,591,3549,2881,3.394,U R U R' U F2 U' F' U
+uniform,BFS,9,9,True,True,796409,4778456,1703618,3266.271,R2 F R U2 F' U2 R' U F2
+uniform,A* (corners),9,9,True,True,192927,1157565,625980,2855.376,R2 F R U2 F' U2 R' U F2
+uniform,A* (pdb),9,9,True,True,809,4857,3902,5.214,R2 F R' U2 F U2 R U F2
+uniform,BFS,9,9,True,True,626566,3759398,1509325,3245.296,U' F' R2 F R' U2 F U2 F2
+uniform,A* (corners),9,9,True,True,151674,910047,508178,2837.572,U' F' R2 F R' U2 F U2 F2
+uniform,A* (pdb),9,9,True,True,610,3663,2932,7.041,U' F' R2 F R' U2 F U2 F2
+uniform,BFS,9,9,True,True,736369,4418215,1644595,3538.819,R F' R' U2 F R' F' U2 F
+uniform,A* (corners),9,9,True,True,64717,388305,237710,945.295,R F' R' U2 F R' F' U2 F
+uniform,A* (pdb),9,9,True,True,705,4233,3437,5.001,R F' R' U2 F R' F' U2 F
+uniform,BFS,10,10,True,True,1793258,10759548,1899827,8359.752,U2 F R' U' F2 U' R2 U' R' U'
+uniform,A* (corners),10,10,True,True,519070,3114423,1358979,8009.941,U2 F R' U' F2 U' R2 U' R' U'
+uniform,A* (pdb),10,10,True,True,5807,34845,26528,40.495,U2 F R' U' F2 U' R2 U' R' U'
+scrambles,BFS,1,1,True,True,1,3,1,0.023,U'
+scrambles,A* (corners),1,1,True,True,1,9,9,0.04,U'
+scrambles,A* (pdb),1,1,True,True,1,9,9,0.009,U'
+scrambles,BFS,1,1,True,True,1,5,1,0.004,R2
+scrambles,A* (corners),1,1,True,True,1,9,9,0.05,R2
+scrambles,A* (pdb),1,1,True,True,1,9,9,0.01,R2
+scrambles,BFS,1,1,True,True,1,6,1,0.005,R'
+scrambles,A* (corners),1,1,True,True,1,9,9,0.025,R'
+scrambles,A* (pdb),1,1,True,True,1,9,9,0.007,R'
+scrambles,BFS,2,2,True,True,4,26,19,0.017,U' F2
+scrambles,A* (corners),2,2,True,True,2,15,14,0.04,U' F2
+scrambles,A* (pdb),2,2,True,True,2,15,14,0.011,U' F2
+scrambles,BFS,2,2,True,True,8,50,39,0.028,F R2
+scrambles,A* (corners),2,2,True,True,3,21,19,0.059,F R2
+scrambles,A* (pdb),2,2,True,True,2,15,14,0.012,F R2
+scrambles,BFS,2,2,True,True,8,49,39,0.02,F R
+scrambles,A* (corners),2,2,True,True,3,21,19,0.051,F R
+scrambles,A* (pdb),2,2,True,True,2,15,14,0.011,F R
+scrambles,BFS,3,3,True,True,14,83,69,0.036,U F U2
+scrambles,A* (corners),3,3,True,True,4,27,24,0.063,U F U2
+scrambles,A* (pdb),3,3,True,True,3,21,19,0.017,U F U2
+scrambles,BFS,3,3,True,True,38,231,188,0.101,R2 F R'
+scrambles,A* (corners),3,3,True,True,8,51,44,0.122,R2 F R'
+scrambles,A* (pdb),3,3,True,True,3,21,19,0.022,R2 F R'
+scrambles,BFS,3,3,True,True,54,325,268,0.124,F2 U2 F
+scrambles,A* (corners),3,3,True,True,13,81,69,0.18,F2 U2 F
+scrambles,A* (pdb),3,3,True,True,3,21,19,0.018,F2 U2 F
+scrambles,BFS,4,4,True,True,78,471,385,0.176,U R' U2 F'
+scrambles,A* (corners),4,4,True,True,15,93,79,0.202,U R' U2 F'
+scrambles,A* (pdb),4,4,True,True,4,27,24,0.022,U R' U2 F'
+scrambles,BFS,4,4,True,True,309,1857,1490,3.837,F R2 F' R'
+scrambles,A* (corners),4,4,True,True,58,351,293,0.871,F R2 F' R'
+scrambles,A* (pdb),4,4,True,True,4,27,24,0.024,F R2 F' R'
+scrambles,BFS,4,4,True,True,264,1583,1273,0.633,R' F U' R2
+scrambles,A* (corners),4,4,True,True,47,285,238,0.578,R' F U' R2
+scrambles,A* (pdb),4,4,True,True,4,27,24,0.022,R' F U' R2
+scrambles,BFS,5,5,True,True,940,5643,4360,2.11,U' F R2 F R'
+scrambles,A* (corners),5,5,True,True,167,1005,823,1.883,U' F R2 F R'
+scrambles,A* (pdb),5,5,True,True,5,33,29,0.027,U' F R2 F R'
+scrambles,BFS,5,5,True,True,528,3170,2523,1.083,U F R' F' R2
+scrambles,A* (corners),5,5,True,True,85,513,426,1.107,R2 F' U' F U
+scrambles,A* (pdb),5,5,True,True,5,33,29,0.064,U F R' F' R2
+scrambles,BFS,4,4,True,True,245,1469,1182,0.515,R' U R2 U2
+scrambles,A* (corners),4,4,True,True,49,297,248,0.629,R' U R2 U2
+scrambles,A* (pdb),4,4,True,True,13,81,69,0.059,R' U R2 U2
+scrambles,BFS,6,6,True,True,10750,64499,44453,29.004,F2 R U' R' U R2
+scrambles,A* (corners),6,6,True,True,2060,12363,9346,25.226,F2 R U' R' U R2
+scrambles,A* (pdb),6,6,True,True,10,63,54,0.095,F2 R U' R' U R2
+scrambles,BFS,6,6,True,True,9508,57047,39558,25.261,F U' F U' R2 U2
+scrambles,A* (corners),6,6,True,True,1747,10485,7938,20.746,F U' F U' R2 U2
+scrambles,A* (pdb),6,6,True,True,35,213,179,0.181,F U' F U' R2 U2
+scrambles,BFS,5,5,True,True,2117,12702,9545,4.623,F' U' F2 U R'
+scrambles,A* (corners),5,5,True,True,390,2343,1875,4.983,F' U' F2 U R'
+scrambles,A* (pdb),5,5,True,True,11,69,59,0.068,F' U' F2 U R'
+scrambles,BFS,6,6,True,True,9168,55011,38137,29.229,F U F2 R2 U F'
+scrambles,A* (corners),6,6,True,True,1721,10329,7820,22.313,F U F2 R2 U F'
+scrambles,A* (pdb),6,6,True,True,18,111,94,0.118,F U F2 R2 U F'
+scrambles,BFS,7,7,True,True,15765,94593,63753,45.631,U F U2 F2 R F R'
+scrambles,A* (corners),7,7,True,True,2351,14109,10555,33.649,U F U2 F2 R F R'
+scrambles,A* (pdb),7,7,True,True,19,117,99,0.134,U F U2 F2 R F R'
+scrambles,BFS,7,7,True,True,36204,217226,138311,122.721,R2 U R2 F' U2 F2 R2
+scrambles,A* (corners),7,7,True,True,8286,49719,34876,116.386,R2 U R2 F' U2 F2 R2
+scrambles,A* (pdb),7,7,True,True,53,321,259,0.327,R2 U' R2 F' R2 F2 U2
+scrambles,BFS,6,6,True,True,11657,69944,48030,35.055,F' U' F R' U2 F2
+scrambles,A* (corners),6,6,True,True,2180,13083,9853,44.107,F' U' F R' U2 F2
+scrambles,A* (pdb),6,6,True,True,24,147,124,0.246,F' U' F R' U2 F2
+scrambles,BFS,7,7,True,True,17164,102984,69010,56.198,U F2 R F2 U' R U'
+scrambles,A* (corners),7,7,True,True,2322,13935,10427,31.837,U' F2 R' F2 U R U'
+scrambles,A* (pdb),7,7,True,True,39,237,199,0.226,U F2 R F2 U' R U'
+scrambles,BFS,3,3,True,True,53,320,263,0.121,F2 U F2
+scrambles,A* (corners),3,3,True,True,11,69,59,0.14,F2 U F2
+scrambles,A* (pdb),3,3,True,True,5,33,29,0.035,F2 U F2
+scrambles,BFS,8,8,True,True,287001,1722008,863645,1217.354,F' R' U R U' R U F2
+scrambles,A* (corners),8,8,True,True,62720,376323,230428,938.06,F' R' U R U' R U F2
+scrambles,A* (pdb),8,8,True,True,438,2631,2093,2.26,F' R' U R U' R U F2
+scrambles,BFS,7,7,True,True,36655,219932,139952,117.078,R2 U F2 U' F U F2
+scrambles,A* (corners),7,7,True,True,2889,17337,12947,35.952,R2 U F2 U' F U F2
+scrambles,A* (pdb),7,7,True,True,29,177,149,0.216,R2 U F2 U' F U F2
+scrambles,BFS,7,7,True,True,15183,91099,61584,44.181,U R' F2 U2 F' U F
+scrambles,A* (corners),7,7,True,True,2345,14073,10527,30.898,U R' F2 U2 F' U F
+scrambles,A* (pdb),7,7,True,True,19,117,99,0.131,U R' F2 U2 F' U F
+scrambles,BFS,6,6,True,True,4898,29390,21121,13.228,U' R2 F2 U' F' R2
+scrambles,A* (corners),6,6,True,True,893,5361,4157,10.806,U' R2 F2 U' F' R2
+scrambles,A* (pdb),6,6,True,True,6,39,34,0.048,U' R2 F2 U' F' R2
+scrambles,BFS,10,10,True,True,2578155,15468933,1899827,11293.246,R' U R' U' F R U2 F' R' F'
+scrambles,A* (corners),10,10,True,True,299878,1799271,904845,4847.732,F' R' U R2 F U2 F2 U F U'
+scrambles,A* (pdb),10,10,True,True,3426,20559,16058,21.202,F' R' U R2 F' U2 F2 U' F U'
+scrambles,BFS,7,7,True,True,26792,160750,104417,74.635,U' R' F U2 F R2 U
+scrambles,A* (corners),7,7,True,True,5207,31245,22461,65.841,U' R' F U2 F R2 U
+scrambles,A* (pdb),7,7,True,True,25,153,129,0.154,U' R' F U2 F R2 U
+scrambles,BFS,10,10,True,True,1352193,8113161,1899827,5960.058,U R' F U F' R2 U F' U' F'
+scrambles,A* (corners),10,10,True,True,300100,1800603,904756,4741.728,F' R2 U R' F' R2 U2 R' U' R
+scrambles,A* (pdb),10,10,True,True,4344,26067,20020,29.915,F U2 R F2 R' U2 R' U F' R
+scrambles,BFS,9,9,True,True,543530,3261183,1383742,2354.302,U' R F2 U' R' F' R' F2 R'
+scrambles,A* (corners),9,9,True,True,128034,768207,438466,2097.375,U' R F2 U' R' F' R' F2 R'
+scrambles,A* (pdb),9,9,True,True,592,3555,2891,3.609,R2 U R U' F2 R F' R U
+scrambles,BFS,9,9,True,True,774394,4646365,1683469,3123.172,R2 U' R2 U F2 U' F U' F
+scrambles,A* (corners),9,9,True,True,186521,1119129,607723,2866.73,R2 U' R2 U F2 U' F U' F
+scrambles,A* (pdb),9,9,True,True,2541,15249,11813,16.343,R2 U' R2 U F2 U' F U' F
+scrambles,BFS,7,7,True,True,39102,234613,148727,122.844,R2 F U' F U' R F
+scrambles,A* (corners),7,7,True,True,7704,46227,32548,140.038,R2 F U' F U' R F
+scrambles,A* (pdb),7,7,True,True,100,603,502,0.61,R2 F U' F U' R F
+scrambles,BFS,9,9,True,True,384380,2306280,1085218,1659.808,U F2 U2 F U F' U R' U'
+scrambles,A* (corners),9,9,True,True,64136,384819,235456,902.004,U F2 U2 F U F' U R' U'
+scrambles,A* (pdb),9,9,True,True,1065,6393,5083,6.322,F U' F2 R2 U R' F U2 R2
+scrambles,BFS,9,9,True,True,730373,4382240,1638194,2944.063,R F' R U' R F U' F R2
+scrambles,A* (corners),9,9,True,True,67063,402381,246838,966.76,R2 U R F2 R2 F' U2 F R2
+scrambles,A* (pdb),9,9,True,True,1164,6987,5535,6.309,R2 U R F2 R2 F' U2 F R2
+scrambles,BFS,10,10,True,True,1865920,11195522,1899827,7571.807,U2 F' U' F2 R F' R' U' R F2
+scrambles,A* (corners),10,10,True,True,549291,3295749,1409770,7824.042,U2 F' U' F2 R F' R' U' R F2
+scrambles,A* (pdb),10,10,True,True,4355,26133,20166,27.781,F2 U' F R U' R2 U' R2 U' F'
+scrambles,BFS,9,9,True,True,970520,5823118,1829163,4077.486,F R F R U2 F' U2 F' U
+scrambles,A* (corners),9,9,True,True,240167,1441005,751986,3566.232,F R F R U2 F' U2 F' U
+scrambles,A* (pdb),9,9,True,True,1066,6399,5115,6.476,F R F R U2 F' U2 F' U
+scrambles,BFS,9,9,True,True,399061,2394367,1116477,1625.402,U F2 R' F' U F2 U2 R2 F
+scrambles,A* (corners),9,9,True,True,91563,549381,325942,1284.953,U F2 R' F' U F2 U2 R2 F
+scrambles,A* (pdb),9,9,True,True,836,5019,3998,4.851,U2 R F' U F2 R F2 R2 F
+scrambles,BFS,8,8,True,True,113977,683860,391962,372.532,U2 F2 R F' R' U F U
+scrambles,A* (corners),8,8,True,True,23814,142887,94177,315.006,U2 F2 R F' R' U F U
+scrambles,A* (pdb),8,8,True,True,529,3177,2546,2.919,U2 F2 R F' R' U F U
+scrambles,BFS,9,9,True,True,471408,2828450,1257926,1866.542,U2 R' F R' F' R2 U R' F2
+scrambles,A* (corners),9,9,True,True,118130,708783,410660,1979.436,U2 R' F R' F' R2 U R' F2
+scrambles,A* (pdb),9,9,True,True,1127,6765,5426,7.115,F2 U R F2 U' R' F2 R' U
+scrambles,BFS,9,9,True,True,763885,4583309,1673206,3054.427,R2 U2 F U' R2 F' U F U2
+scrambles,A* (corners),9,9,True,True,185730,1114383,606508,2925.14,R2 U2 F U' R2 F' U F U2
+scrambles,A* (pdb),9,9,True,True,1632,9795,7664,9.596,R2 U2 F U' R2 F' U F U2
+scrambles,BFS,8,8,True,True,129450,776700,438287,459.09,U' R' U F2 U' R2 U R'
+scrambles,A* (corners),8,8,True,True,27461,164769,107624,370.496,U' R' U F2 U' R2 U R'
+scrambles,A* (pdb),8,8,True,True,388,2331,1898,1.889,U' R' U F2 U' R2 U R'
+scrambles,BFS,9,9,True,True,951177,5707062,1818857,3726.569,F U' R2 U' F R2 F U' R'
+scrambles,A* (corners),9,9,True,True,234715,1408293,737182,3598.937,F U' R2 U' F R2 F U' R'
+scrambles,A* (pdb),9,9,True,True,1392,8355,6703,8.97,F U' R2 U' F R2 F U' R'
+scrambles,BFS,8,8,True,True,250587,1503523,773389,962.701,F2 U2 R U' F2 R2 U F
+scrambles,A* (corners),8,8,True,True,54251,325509,202010,805.285,F2 U2 R U' F2 R2 U F
+scrambles,A* (pdb),8,8,True,True,827,4965,3935,4.242,F2 U2 R U' F2 R2 U F

@@ -1,0 +1,164 @@
+{
+  "BFS": {
+    "cases": 204,
+    "solved": 204,
+    "optimal": 204,
+    "uniform_mean_expanded": 638569,
+    "uniform_mean_ms": 2873.4,
+    "uniform_max_ms": 9193.1,
+    "by_depth": {
+      "1": {
+        "mean_expanded": 1,
+        "mean_ms": 0.0
+      },
+      "2": {
+        "mean_expanded": 6,
+        "mean_ms": 0.02
+      },
+      "3": {
+        "mean_expanded": 32,
+        "mean_ms": 0.06
+      },
+      "4": {
+        "mean_expanded": 228,
+        "mean_ms": 0.44
+      },
+      "5": {
+        "mean_expanded": 1411,
+        "mean_ms": 3.28
+      },
+      "6": {
+        "mean_expanded": 7407,
+        "mean_ms": 22.41
+      },
+      "7": {
+        "mean_expanded": 39428,
+        "mean_ms": 130.8
+      },
+      "8": {
+        "mean_expanded": 174675,
+        "mean_ms": 739.91
+      },
+      "9": {
+        "mean_expanded": 648656,
+        "mean_ms": 3005.25
+      },
+      "10": {
+        "mean_expanded": 1724676,
+        "mean_ms": 7500.07
+      },
+      "11": {
+        "mean_expanded": 3263225,
+        "mean_ms": 14017.34
+      }
+    }
+  },
+  "A* (corners)": {
+    "cases": 204,
+    "solved": 204,
+    "optimal": 204,
+    "uniform_mean_expanded": 126918,
+    "uniform_mean_ms": 2054.7,
+    "uniform_max_ms": 8009.9,
+    "by_depth": {
+      "1": {
+        "mean_expanded": 1,
+        "mean_ms": 0.03
+      },
+      "2": {
+        "mean_expanded": 3,
+        "mean_ms": 0.06
+      },
+      "3": {
+        "mean_expanded": 7,
+        "mean_ms": 0.09
+      },
+      "4": {
+        "mean_expanded": 40,
+        "mean_ms": 0.44
+      },
+      "5": {
+        "mean_expanded": 238,
+        "mean_ms": 2.96
+      },
+      "6": {
+        "mean_expanded": 1248,
+        "mean_ms": 17.5
+      },
+      "7": {
+        "mean_expanded": 6507,
+        "mean_ms": 91.71
+      },
+      "8": {
+        "mean_expanded": 30966,
+        "mean_ms": 460.15
+      },
+      "9": {
+        "mean_expanded": 132815,
+        "mean_ms": 2181.77
+      },
+      "10": {
+        "mean_expanded": 307480,
+        "mean_ms": 4852.28
+      },
+      "11": {
+        "mean_expanded": 1174654,
+        "mean_ms": 15536.83
+      }
+    }
+  },
+  "A* (pdb)": {
+    "cases": 204,
+    "solved": 204,
+    "optimal": 204,
+    "uniform_mean_expanded": 1580,
+    "uniform_mean_ms": 11.4,
+    "uniform_max_ms": 48.1,
+    "by_depth": {
+      "1": {
+        "mean_expanded": 1,
+        "mean_ms": 0.01
+      },
+      "2": {
+        "mean_expanded": 2,
+        "mean_ms": 0.01
+      },
+      "3": {
+        "mean_expanded": 3,
+        "mean_ms": 0.02
+      },
+      "4": {
+        "mean_expanded": 4,
+        "mean_ms": 0.02
+      },
+      "5": {
+        "mean_expanded": 7,
+        "mean_ms": 0.04
+      },
+      "6": {
+        "mean_expanded": 16,
+        "mean_ms": 0.11
+      },
+      "7": {
+        "mean_expanded": 77,
+        "mean_ms": 0.44
+      },
+      "8": {
+        "mean_expanded": 278,
+        "mean_ms": 1.49
+      },
+      "9": {
+        "mean_expanded": 1388,
+        "mean_ms": 8.13
+      },
+      "10": {
+        "mean_expanded": 4440,
+        "mean_ms": 29.2
+      },
+      "11": {
+        "mean_expanded": 19200,
+        "mean_ms": 161.4
+      }
+    }
+  }
+}

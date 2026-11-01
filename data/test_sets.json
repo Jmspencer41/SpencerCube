@@ -1,0 +1,1119 @@
+{
+ "seed": 425,
+ "stratified": [
+  {
+   "state": 2208639,
+   "optimal": 1,
+   "facelets": "UFUFRRRRFDFDDBDBLLLLUBUB"
+  },
+  {
+   "state": 897082,
+   "optimal": 1,
+   "facelets": "UULLURURFFFFRRDDLDLDBBBB"
+  },
+  {
+   "state": 3019518,
+   "optimal": 1,
+   "facelets": "UUDDLRLRFFFFUUDDLRLRBBBB"
+  },
+  {
+   "state": 1224720,
+   "optimal": 1,
+   "facelets": "UUUULLRRBBFFDDDDRRLLFFBB"
+  },
+  {
+   "state": 629856,
+   "optimal": 1,
+   "facelets": "UUUUFFRRLLFFDDDDBBLLRRBB"
+  },
+  {
+   "state": 3265191,
+   "optimal": 1,
+   "facelets": "UDUDRRRRFBFBDUDULLLLFBFB"
+  },
+  {
+   "state": 2123260,
+   "optimal": 1,
+   "facelets": "UURRDRDRFFFFLLDDLULUBBBB"
+  },
+  {
+   "state": 1693965,
+   "optimal": 1,
+   "facelets": "UBUBRRRRFUFUDFDFLLLLDBDB"
+  },
+  {
+   "state": 1574640,
+   "optimal": 1,
+   "facelets": "UUUUBBRRRRFFDDDDFFLLLLBB"
+  },
+  {
+   "state": 1924972,
+   "optimal": 2,
+   "facelets": "UULRULURFBFBRLDDRDLDFFBB"
+  },
+  {
+   "state": 2319678,
+   "optimal": 2,
+   "facelets": "UDUDFFLRLRFFUUDDBBLRLRBB"
+  },
+  {
+   "state": 2370477,
+   "optimal": 2,
+   "facelets": "UBUFRLRLBDFDDBDFRRLLUFUB"
+  },
+  {
+   "state": 266493,
+   "optimal": 2,
+   "facelets": "UUFFUBRRRRFDDBDBFDLLLLUB"
+  },
+  {
+   "state": 905101,
+   "optimal": 2,
+   "facelets": "UDLLURDRFFBBRRDULDLUFBFB"
+  },
+  {
+   "state": 1719124,
+   "optimal": 2,
+   "facelets": "LULUBBURURFFRRDDFFLDLDBB"
+  },
+  {
+   "state": 2317989,
+   "optimal": 2,
+   "facelets": "ULUFRFRFLDFDDBDRBBLLURUB"
+  },
+  {
+   "state": 3158757,
+   "optimal": 2,
+   "facelets": "UDUDRRBBRBFLDUDUFFLLFLRB"
+  },
+  {
+   "state": 2108037,
+   "optimal": 2,
+   "facelets": "URUFRBRBRDFDDBDLFFLLULUB"
+  },
+  {
+   "state": 620427,
+   "optimal": 2,
+   "facelets": "FFUUFDRRLLFDDBDBUBLLRRUB"
+  },
+  {
+   "state": 3076506,
+   "optimal": 3,
+   "facelets": "FFBDLDBRDFLLUUDBURLFRRUB"
+  },
+  {
+   "state": 163834,
+   "optimal": 3,
+   "facelets": "BBURFUDDLUFRLFDFDBLURRLB"
+  },
+  {
+   "state": 233498,
+   "optimal": 3,
+   "facelets": "LUBURBRRRFUFFDDDFULLLDBB"
+  },
+  {
+   "state": 2409934,
+   "optimal": 3,
+   "facelets": "ULRFRDRFUDFDLBDRLBLUFBUB"
+  },
+  {
+   "state": 2880817,
+   "optimal": 3,
+   "facelets": "BBULFUUULDFLRFDFDBLDRRRB"
+  },
+  {
+   "state": 1020600,
+   "optimal": 3,
+   "facelets": "DUDUFBRLRLFBUUDDFBLRLRFB"
+  },
+  {
+   "state": 1624113,
+   "optimal": 3,
+   "facelets": "FBFBRRLLUUFFDUDURRLLDDBB"
+  },
+  {
+   "state": 1861549,
+   "optimal": 3,
+   "facelets": "UUFRUBDRRBRFBLDUFDLDLLFB"
+  },
+  {
+   "state": 2802074,
+   "optimal": 3,
+   "facelets": "FLULFFFRLDDDRRDBUBLBURUB"
+  },
+  {
+   "state": 1008831,
+   "optimal": 3,
+   "facelets": "BDBFLRLRDUFUDBDURRLLFUFB"
+  },
+  {
+   "state": 2778219,
+   "optimal": 4,
+   "facelets": "DDUDLBFLFFRRUUDUFLLBRRBB"
+  },
+  {
+   "state": 1621723,
+   "optimal": 4,
+   "facelets": "DLRRUDRBFBFDLBDLFULUFRUB"
+  },
+  {
+   "state": 1558414,
+   "optimal": 4,
+   "facelets": "LUDLBFLURUFFRUDRFBLDRDBB"
+  },
+  {
+   "state": 1702627,
+   "optimal": 4,
+   "facelets": "DUFRUBULLBRFBRDDFULDLRFB"
+  },
+  {
+   "state": 487350,
+   "optimal": 4,
+   "facelets": "BDBFUFBRDRLLUUDFRRLFLUDB"
+  },
+  {
+   "state": 2059997,
+   "optimal": 4,
+   "facelets": "UDBBRRLRDUUDFFDULRLLFBFB"
+  },
+  {
+   "state": 3345091,
+   "optimal": 4,
+   "facelets": "LULBDFDRBRBFRLDFUULURFDB"
+  },
+  {
+   "state": 3299308,
+   "optimal": 4,
+   "facelets": "DRLRBBUBUDLFFRDLFFLDURUB"
+  },
+  {
+   "state": 1739892,
+   "optimal": 4,
+   "facelets": "DBUBRLLRFUFDUFDFRLLRUBDB"
+  },
+  {
+   "state": 949093,
+   "optimal": 4,
+   "facelets": "DFLFLRDUFUBRRFDBRDLUUBLB"
+  },
+  {
+   "state": 3226518,
+   "optimal": 5,
+   "facelets": "FLRRBURLFDRBDUDFDULFBLUB"
+  },
+  {
+   "state": 335353,
+   "optimal": 5,
+   "facelets": "DLDURFLBFFLDBFDURRLUUBRB"
+  },
+  {
+   "state": 1955153,
+   "optimal": 5,
+   "facelets": "FDLBRRBUFUURLDDFLDLBFURB"
+  },
+  {
+   "state": 1274289,
+   "optimal": 5,
+   "facelets": "FRBLBDULRUFFDRDFRULLBDUB"
+  },
+  {
+   "state": 1792428,
+   "optimal": 5,
+   "facelets": "FUUBRLDLLUFBURDDRBLRFDFB"
+  },
+  {
+   "state": 1831176,
+   "optimal": 5,
+   "facelets": "DRLBRFLUBUFFDUDFRULLDBRB"
+  },
+  {
+   "state": 2312147,
+   "optimal": 5,
+   "facelets": "UUUFRFFLLDDLRDDFBBLBRRUB"
+  },
+  {
+   "state": 2275755,
+   "optimal": 5,
+   "facelets": "RUUFRLULLDBRDBDDFBLRFUFB"
+  },
+  {
+   "state": 2223489,
+   "optimal": 5,
+   "facelets": "RFUDFRLRFRBDUFDDULLLUBBB"
+  },
+  {
+   "state": 1390175,
+   "optimal": 5,
+   "facelets": "BFFLBUDURUUFRLDRDDLFLRBB"
+  },
+  {
+   "state": 3633570,
+   "optimal": 6,
+   "facelets": "LBLDRURFFBFFUDDUBDLRRULB"
+  },
+  {
+   "state": 2434060,
+   "optimal": 6,
+   "facelets": "DFBFRRBLRDFLLUDDRULUUBFB"
+  },
+  {
+   "state": 336949,
+   "optimal": 6,
+   "facelets": "RBRURLUFDFBLRFDLBFLUUDDB"
+  },
+  {
+   "state": 2211870,
+   "optimal": 6,
+   "facelets": "UULDFRRDURFDUBDFLFLRBBLB"
+  },
+  {
+   "state": 1306438,
+   "optimal": 6,
+   "facelets": "RRUULFDFBBRFFLDUBRLUDDLB"
+  },
+  {
+   "state": 849761,
+   "optimal": 6,
+   "facelets": "LRFLUBUBRFDFRRDLFDLBUDUB"
+  },
+  {
+   "state": 1020216,
+   "optimal": 6,
+   "facelets": "DLBLUURUDFFUDFDRFRLLBRBB"
+  },
+  {
+   "state": 3039188,
+   "optimal": 6,
+   "facelets": "BBFLFLRLRDUDRBDFRDLFUUUB"
+  },
+  {
+   "state": 1348107,
+   "optimal": 6,
+   "facelets": "URFULUULRBBLDFDDBDLRFRFB"
+  },
+  {
+   "state": 3332787,
+   "optimal": 6,
+   "facelets": "FRURBBDFLDRFDLDUUBLFURLB"
+  },
+  {
+   "state": 1828762,
+   "optimal": 7,
+   "facelets": "DFLRUDUDBBFFLRDFRULURBLB"
+  },
+  {
+   "state": 3562518,
+   "optimal": 7,
+   "facelets": "BURRBBFLDDFUULDDRFLRLUFB"
+  },
+  {
+   "state": 955769,
+   "optimal": 7,
+   "facelets": "BBDUFULRLLDUFBDUDFLRRRFB"
+  },
+  {
+   "state": 3003452,
+   "optimal": 7,
+   "facelets": "LBFLFUUURDDBRLDFUDLBRFRB"
+  },
+  {
+   "state": 71288,
+   "optimal": 7,
+   "facelets": "DULRFBURUUDRLBDFRFLFLBDB"
+  },
+  {
+   "state": 973528,
+   "optimal": 7,
+   "facelets": "RRDLUFUBRFLRFBDLFBLDDUUB"
+  },
+  {
+   "state": 1487566,
+   "optimal": 7,
+   "facelets": "UURBULRFBLFBRUDLRDLDFFDB"
+  },
+  {
+   "state": 1637328,
+   "optimal": 7,
+   "facelets": "LFRBRDFLFUBUDLDUFULRRDBB"
+  },
+  {
+   "state": 1060359,
+   "optimal": 7,
+   "facelets": "FFFBULDBULRRUFDRLRLBDUDB"
+  },
+  {
+   "state": 2144816,
+   "optimal": 7,
+   "facelets": "UFFDFLURURUBFLDDBRLLDRBB"
+  },
+  {
+   "state": 3499047,
+   "optimal": 8,
+   "facelets": "DRRRBFBFUDLLUUDRLBLFDFUB"
+  },
+  {
+   "state": 3112496,
+   "optimal": 8,
+   "facelets": "LRBFDFURDLULBFDUBRLRDUFB"
+  },
+  {
+   "state": 2151736,
+   "optimal": 8,
+   "facelets": "RRRRDDDFFFLFBLDUUULUBBLB"
+  },
+  {
+   "state": 2378235,
+   "optimal": 8,
+   "facelets": "RRBDFDLBRRLDUFDLFULFBUUB"
+  },
+  {
+   "state": 528761,
+   "optimal": 8,
+   "facelets": "LBRUFUBDFLDRLDDRBULFRUFB"
+  },
+  {
+   "state": 822309,
+   "optimal": 8,
+   "facelets": "LRFFLDDFRURFULDRBDLBBUUB"
+  },
+  {
+   "state": 1820199,
+   "optimal": 8,
+   "facelets": "BRBBRUFFUURUDLDLDLLFFRDB"
+  },
+  {
+   "state": 1511082,
+   "optimal": 8,
+   "facelets": "LUBLBRRFDUFFUDDLURLRBFDB"
+  },
+  {
+   "state": 1480966,
+   "optimal": 8,
+   "facelets": "BRFBUBUFDLFLRFDRDLLDURUB"
+  },
+  {
+   "state": 1712024,
+   "optimal": 8,
+   "facelets": "DDLRUBULUBUBRLDDFFLFRRFB"
+  },
+  {
+   "state": 2965139,
+   "optimal": 9,
+   "facelets": "BFUFDUDUBLURLFDFDRLBLRRB"
+  },
+  {
+   "state": 3447772,
+   "optimal": 9,
+   "facelets": "UURBDFUDURLLFFDRLBLDRBFB"
+  },
+  {
+   "state": 751316,
+   "optimal": 9,
+   "facelets": "RBBLURLURFUDRFDBDULFDFLB"
+  },
+  {
+   "state": 771039,
+   "optimal": 9,
+   "facelets": "DUUFLFBDBUFLDUDRRRLLRBFB"
+  },
+  {
+   "state": 32489,
+   "optimal": 9,
+   "facelets": "UDFFUBDFLRURLFDLBULBRRDB"
+  },
+  {
+   "state": 3095372,
+   "optimal": 9,
+   "facelets": "LRDDLFRBRFUBRUDLUBLFDFUB"
+  },
+  {
+   "state": 500901,
+   "optimal": 9,
+   "facelets": "FBDURUUFRFFBDLDURBLLRDLB"
+  },
+  {
+   "state": 2104957,
+   "optimal": 9,
+   "facelets": "URFRDBBFUFRLBUDLFRLDULDB"
+  },
+  {
+   "state": 2824324,
+   "optimal": 9,
+   "facelets": "URLDLBDFBFRBFRDDFULUULRB"
+  },
+  {
+   "state": 3252426,
+   "optimal": 9,
+   "facelets": "FDLBDFUUURRRDBDBUFLFLRLB"
+  },
+  {
+   "state": 608967,
+   "optimal": 10,
+   "facelets": "DFULULBURFRLDUDRRFLFDBBB"
+  },
+  {
+   "state": 3357563,
+   "optimal": 10,
+   "facelets": "LDURBFBRLDDUFRDUUBLRLFFB"
+  },
+  {
+   "state": 2281514,
+   "optimal": 10,
+   "facelets": "RRLRDBLFBFDDRFDUFULBUULB"
+  },
+  {
+   "state": 723746,
+   "optimal": 10,
+   "facelets": "URRFLFFRUUULRDDDLBLFDBBB"
+  },
+  {
+   "state": 2468260,
+   "optimal": 10,
+   "facelets": "LUFFRFBUDDRLBUDRULLDRFBB"
+  },
+  {
+   "state": 1317742,
+   "optimal": 10,
+   "facelets": "FUFBURUFRLRLBFDLUDLDBRDB"
+  },
+  {
+   "state": 3540569,
+   "optimal": 10,
+   "facelets": "LUDRBLBFFDUURRDLBRLFFUDB"
+  },
+  {
+   "state": 1853057,
+   "optimal": 10,
+   "facelets": "URFBRDBURUDLLUDLRDLFBFFB"
+  },
+  {
+   "state": 2508776,
+   "optimal": 10,
+   "facelets": "RLDRDFUFLFDBRLDRUFLBUBUB"
+  },
+  {
+   "state": 2661827,
+   "optimal": 10,
+   "facelets": "UUUFDLFBRLDDRRDLBFLBFRUB"
+  },
+  {
+   "state": 2252551,
+   "optimal": 11,
+   "facelets": "DBFFRURULDLDBBDFLULURFRB"
+  },
+  {
+   "state": 3414623,
+   "optimal": 11,
+   "facelets": "RLBRBFFBRDDDLRDLFULFUUUB"
+  },
+  {
+   "state": 3261128,
+   "optimal": 11,
+   "facelets": "LRUBDBFFFRDDLRDRBLLFUUUB"
+  },
+  {
+   "state": 207150,
+   "optimal": 11,
+   "facelets": "BDRURBDFUFLRUFDLUBLFRLDB"
+  },
+  {
+   "state": 274990,
+   "optimal": 11,
+   "facelets": "FLRURDRBDFBDRBDLLFLUFUUB"
+  },
+  {
+   "state": 1133543,
+   "optimal": 11,
+   "facelets": "BDRLBFLRFUUFBUDFDULRLRDB"
+  },
+  {
+   "state": 203573,
+   "optimal": 11,
+   "facelets": "ULBURDRFRFDFRDDULULBFBLB"
+  },
+  {
+   "state": 224713,
+   "optimal": 11,
+   "facelets": "DRBURDBDRFFLLUDFFULUBRLB"
+  },
+  {
+   "state": 862529,
+   "optimal": 11,
+   "facelets": "BBRUFLRBDLDULFDUDFLFURRB"
+  },
+  {
+   "state": 1217332,
+   "optimal": 11,
+   "facelets": "RRLLBFFRUULRFUDBBFLDDDUB"
+  }
+ ],
+ "uniform": [
+  {
+   "state": 1322025,
+   "optimal": 7,
+   "facelets": "ULRBUDUBDLBLDFDURFLRFFRB"
+  },
+  {
+   "state": 293093,
+   "optimal": 9,
+   "facelets": "BDDURBUDFFULBFDFURLRRLLB"
+  },
+  {
+   "state": 2512732,
+   "optimal": 8,
+   "facelets": "RUFFRBFRDDRUFLDDULLULBBB"
+  },
+  {
+   "state": 3388183,
+   "optimal": 8,
+   "facelets": "RUURBRURLDLLFFDUDBLDBFFB"
+  },
+  {
+   "state": 350880,
+   "optimal": 10,
+   "facelets": "FBLURLURFFBRDBDFLDLRUUDB"
+  },
+  {
+   "state": 370555,
+   "optimal": 10,
+   "facelets": "LULURLDRFFBBRRDFBDLUFUDB"
+  },
+  {
+   "state": 66831,
+   "optimal": 9,
+   "facelets": "DDURFBURFURBDLDBLLLFRFUB"
+  },
+  {
+   "state": 2573401,
+   "optimal": 7,
+   "facelets": "BUDDFFBLRRFULRDDUBLURLFB"
+  },
+  {
+   "state": 1067107,
+   "optimal": 9,
+   "facelets": "UBFLBRLBUUFDRFDUFRLDDLRB"
+  },
+  {
+   "state": 2027894,
+   "optimal": 8,
+   "facelets": "RDDBRFLLRUDUFBDFFBLRLUUB"
+  },
+  {
+   "state": 64888,
+   "optimal": 9,
+   "facelets": "DDUURRDLFFBBRRDULLLUFFBB"
+  },
+  {
+   "state": 2788183,
+   "optimal": 10,
+   "facelets": "DUULFBRFFDRBFUDDRLLULBRB"
+  },
+  {
+   "state": 2862071,
+   "optimal": 9,
+   "facelets": "DRUDLBUDLFULRFDBFBLFURRB"
+  },
+  {
+   "state": 3368900,
+   "optimal": 8,
+   "facelets": "RDLDRRFUBBDRLUDLUULFFBFB"
+  },
+  {
+   "state": 282662,
+   "optimal": 8,
+   "facelets": "BFDRFUDBFUDFRLDUURLBLLRB"
+  },
+  {
+   "state": 961118,
+   "optimal": 8,
+   "facelets": "BFDLUDUULFURRBDBDFLFRRLB"
+  },
+  {
+   "state": 2687820,
+   "optimal": 9,
+   "facelets": "FBRLFUUBFDLBULDRRULFRDDB"
+  },
+  {
+   "state": 1749194,
+   "optimal": 9,
+   "facelets": "RLURUDDRFBURLFDUBLLBFDFB"
+  },
+  {
+   "state": 1563886,
+   "optimal": 10,
+   "facelets": "DFRULURUBBFBRUDFLDLDLFRB"
+  },
+  {
+   "state": 790404,
+   "optimal": 8,
+   "facelets": "UUFUFBDFRLRBURDLRDLBLFDB"
+  },
+  {
+   "state": 2368910,
+   "optimal": 9,
+   "facelets": "RBRRDLFLUFDLRDDFFBLBUUUB"
+  },
+  {
+   "state": 2545372,
+   "optimal": 9,
+   "facelets": "FURRDBFUBFBLRDDLUDLULRFB"
+  },
+  {
+   "state": 1305543,
+   "optimal": 8,
+   "facelets": "RRRLBFFFUUFUULDLBBLRDDDB"
+  },
+  {
+   "state": 509370,
+   "optimal": 8,
+   "facelets": "FLDRFFUFRUBRUBDDDBLLULRB"
+  },
+  {
+   "state": 2358060,
+   "optimal": 8,
+   "facelets": "RFLRDLUUBFLFURDRBULFDDBB"
+  },
+  {
+   "state": 2975081,
+   "optimal": 9,
+   "facelets": "FUDDLLLRFFDURBDBURLBFRUB"
+  },
+  {
+   "state": 527640,
+   "optimal": 10,
+   "facelets": "UUFFLRDDUUBFDLDRLRLRBBFB"
+  },
+  {
+   "state": 685016,
+   "optimal": 9,
+   "facelets": "RRLLUUDUBFDRLFDRBULFFDBB"
+  },
+  {
+   "state": 1745204,
+   "optimal": 9,
+   "facelets": "RDFBRRLRLUUDLFDUBULBFDFB"
+  },
+  {
+   "state": 2583614,
+   "optimal": 9,
+   "facelets": "BRDDFBFLRRULRDDFUBLFULUB"
+  },
+  {
+   "state": 2268365,
+   "optimal": 9,
+   "facelets": "BRFRDBLULFDULBDFDULFURRB"
+  },
+  {
+   "state": 2825993,
+   "optimal": 10,
+   "facelets": "FRBFDFFBULURBUDRLLLRDUDB"
+  },
+  {
+   "state": 1517529,
+   "optimal": 8,
+   "facelets": "FFRBUDLUBLRDUFDFLDLBRURB"
+  },
+  {
+   "state": 470422,
+   "optimal": 9,
+   "facelets": "LDRURFRUBFFBRUDLBDLDLUFB"
+  },
+  {
+   "state": 333800,
+   "optimal": 9,
+   "facelets": "RFRRFUUUDUDBLLDRBFLFLDBB"
+  },
+  {
+   "state": 1658694,
+   "optimal": 9,
+   "facelets": "RDRUBFFUFRRUDLDBBULFLDLB"
+  },
+  {
+   "state": 572445,
+   "optimal": 8,
+   "facelets": "DLRUFDBBFLRRUDDLFULBFRUB"
+  },
+  {
+   "state": 2698808,
+   "optimal": 9,
+   "facelets": "BLUDLUFFRFUUBLDDDFLRBRRB"
+  },
+  {
+   "state": 3229710,
+   "optimal": 9,
+   "facelets": "LBRDRUUDFBLBULDRFULFRDFB"
+  },
+  {
+   "state": 1417797,
+   "optimal": 10,
+   "facelets": "FUFLBFRDDURBDUDBLLLFRURB"
+  },
+  {
+   "state": 8184,
+   "optimal": 9,
+   "facelets": "UDFURRRBLFFDDBDULULLFBRB"
+  },
+  {
+   "state": 1987597,
+   "optimal": 8,
+   "facelets": "DLFRUULDDBRFFUDBFLLUBRRB"
+  },
+  {
+   "state": 481963,
+   "optimal": 8,
+   "facelets": "URBURFFBDFLUFLDLBRLDDRUB"
+  },
+  {
+   "state": 300132,
+   "optimal": 9,
+   "facelets": "RUDRFLFLFUBLDDDUURLRFBBB"
+  },
+  {
+   "state": 2277621,
+   "optimal": 10,
+   "facelets": "RLLDFFBDBRRRUDDFFULBUULB"
+  },
+  {
+   "state": 1702989,
+   "optimal": 9,
+   "facelets": "RLUUBUFRFRFLUDDDDLLRBFBB"
+  },
+  {
+   "state": 1626706,
+   "optimal": 9,
+   "facelets": "FBURURFURBLLBDDLRFLUDDFB"
+  },
+  {
+   "state": 1609724,
+   "optimal": 9,
+   "facelets": "DLFUBFBBURDLLUDRFRLFURDB"
+  },
+  {
+   "state": 2263116,
+   "optimal": 9,
+   "facelets": "RUURDBBFFFFUURDLBLLRLDDB"
+  },
+  {
+   "state": 546103,
+   "optimal": 10,
+   "facelets": "UUFUFBBDULLRFDDRBRLDLRFB"
+  }
+ ],
+ "scrambles": [
+  {
+   "scramble": "U",
+   "scramble_length": 1,
+   "state": 1574640,
+   "optimal": 1,
+   "facelets": "UUUUBBRRRRFFDDDDFFLLLLBB"
+  },
+  {
+   "scramble": "R2",
+   "scramble_length": 1,
+   "state": 3265191,
+   "optimal": 1,
+   "facelets": "UDUDRRRRFBFBDUDULLLLFBFB"
+  },
+  {
+   "scramble": "R",
+   "scramble_length": 1,
+   "state": 2208639,
+   "optimal": 1,
+   "facelets": "UFUFRRRRFDFDDBDBLLLLUBUB"
+  },
+  {
+   "scramble": "F2 U",
+   "scramble_length": 2,
+   "state": 1987254,
+   "optimal": 2,
+   "facelets": "DUDUBBLRLRFFUUDDFFLRLRBB"
+  },
+  {
+   "scramble": "R2 F'",
+   "scramble_length": 2,
+   "state": 2059837,
+   "optimal": 2,
+   "facelets": "UDRRURDRBBFFLLDULDLUFBFB"
+  },
+  {
+   "scramble": "R' F'",
+   "scramble_length": 2,
+   "state": 209077,
+   "optimal": 2,
+   "facelets": "UBRRFRDRUUFFLLDFLBLUDBDB"
+  },
+  {
+   "scramble": "U2 F' U'",
+   "scramble_length": 3,
+   "state": 1056094,
+   "optimal": 3,
+   "facelets": "URULBFDRRUBFRLDDFFLUDLBB"
+  },
+  {
+   "scramble": "R F' R2",
+   "scramble_length": 3,
+   "state": 1881409,
+   "optimal": 3,
+   "facelets": "ULRBRDRBDUFULFDRLFLUFBDB"
+  },
+  {
+   "scramble": "F' U2 F2",
+   "scramble_length": 3,
+   "state": 929196,
+   "optimal": 3,
+   "facelets": "RRLLUURRFFBBUUDDDDLLFFBB"
+  },
+  {
+   "scramble": "F U2 R U'",
+   "scramble_length": 4,
+   "state": 1682653,
+   "optimal": 4,
+   "facelets": "BFLUBRRDURFDRBDFUFLDULLB"
+  },
+  {
+   "scramble": "R F R2 F'",
+   "scramble_length": 4,
+   "state": 201054,
+   "optimal": 4,
+   "facelets": "URRRFFRUUUFDDBDLLBLLDBFB"
+  },
+  {
+   "scramble": "R2 U F' R",
+   "scramble_length": 4,
+   "state": 3001720,
+   "optimal": 4,
+   "facelets": "UBFFDURBRLRUBFDLFDLDRLUB"
+  },
+  {
+   "scramble": "R F' R2 F' U",
+   "scramble_length": 5,
+   "state": 2664443,
+   "optimal": 5,
+   "facelets": "RURLFBLBFDDFFUDRUULRLBDB"
+  },
+  {
+   "scramble": "U' F' U F R2",
+   "scramble_length": 5,
+   "state": 3342537,
+   "optimal": 5,
+   "facelets": "FRUDRURRLBFBDUDFLBLLFUDB"
+  },
+  {
+   "scramble": "R2 U2 R2 U R",
+   "scramble_length": 5,
+   "state": 564744,
+   "optimal": 4,
+   "facelets": "DRUFLBLBRUFUDBDRFFLLURDB"
+  },
+  {
+   "scramble": "R2 U' R U R' F2",
+   "scramble_length": 6,
+   "state": 2744855,
+   "optimal": 6,
+   "facelets": "UDFDLBURLFDRFBDULULRRBFB"
+  },
+  {
+   "scramble": "U2 R2 U F' U F'",
+   "scramble_length": 6,
+   "state": 2688770,
+   "optimal": 6,
+   "facelets": "FURDLRBLFFURFDDURULLBDBB"
+  },
+  {
+   "scramble": "R2 U F U2 F' R'",
+   "scramble_length": 6,
+   "state": 2785225,
+   "optimal": 5,
+   "facelets": "BFFFDRFRLLLDBRDBDULUURUB"
+  },
+  {
+   "scramble": "F' R2 F2 U R2 U' F'",
+   "scramble_length": 7,
+   "state": 1144843,
+   "optimal": 6,
+   "facelets": "RRUBUFDFFLBBRRDLFLLUDUDB"
+  },
+  {
+   "scramble": "R F' R' F2 U2 F' U'",
+   "scramble_length": 7,
+   "state": 1216564,
+   "optimal": 7,
+   "facelets": "DFLLBDUDUUBFRRDFRFLURBLB"
+  },
+  {
+   "scramble": "R2 F2 U2 F R2 U' R2",
+   "scramble_length": 7,
+   "state": 2493478,
+   "optimal": 7,
+   "facelets": "LUDRDRFBLFFRLUDRBFLUBUDB"
+  },
+  {
+   "scramble": "F R2 U' R2 U' F' U' R'",
+   "scramble_length": 8,
+   "state": 3443823,
+   "optimal": 6,
+   "facelets": "LDUDRFBRBBFLUUDFURLRLFDB"
+  },
+  {
+   "scramble": "U R F U2 R U2 F' R2",
+   "scramble_length": 8,
+   "state": 2693183,
+   "optimal": 7,
+   "facelets": "DBUFDRBURLUUFRDBFFLLDRLB"
+  },
+  {
+   "scramble": "R U2 F2 U2 R F2 U F2",
+   "scramble_length": 8,
+   "state": 26244,
+   "optimal": 3,
+   "facelets": "UDUURFBRFFRLDUDDBLLFLRBB"
+  },
+  {
+   "scramble": "F' U R F' R' F R' F' U'",
+   "scramble_length": 9,
+   "state": 1062560,
+   "optimal": 8,
+   "facelets": "UDRBUFBUFLDRFDDRFULRLLBB"
+  },
+  {
+   "scramble": "U' R2 U R' U2 F' U' F U2",
+   "scramble_length": 9,
+   "state": 3558423,
+   "optimal": 7,
+   "facelets": "ULFDRFLFRBFUDBDRBDLLURUB"
+  },
+  {
+   "scramble": "F2 R' U' R' F' R U' F2 U",
+   "scramble_length": 9,
+   "state": 152715,
+   "optimal": 7,
+   "facelets": "FDBFURRLURRDUBDFDLLBFLUB"
+  },
+  {
+   "scramble": "F2 U2 R' U R2 F2 U2 F R' U'",
+   "scramble_length": 10,
+   "state": 609030,
+   "optimal": 6,
+   "facelets": "RLULUDBURFRLDUDRBFLFFDBB"
+  },
+  {
+   "scramble": "F R F U' F R U' F' U2 R",
+   "scramble_length": 10,
+   "state": 303858,
+   "optimal": 10,
+   "facelets": "RURRFBFBDULLUDDRUFLFLBDB"
+  },
+  {
+   "scramble": "U R2 F' U2 R2 F2 U2 F R U",
+   "scramble_length": 10,
+   "state": 2834824,
+   "optimal": 7,
+   "facelets": "BFLFDRFDBLFURLDBRULDUURB"
+  },
+  {
+   "scramble": "F2 U2 F' R F R2 F R' U F2 R",
+   "scramble_length": 11,
+   "state": 246847,
+   "optimal": 10,
+   "facelets": "BLBFUFFFRRLDBRDLDULUURDB"
+  },
+  {
+   "scramble": "F' R' F2 R U R' U R2 F' R F",
+   "scramble_length": 11,
+   "state": 2810742,
+   "optimal": 9,
+   "facelets": "FRLFDFULBLBRDBDFUULRDRUB"
+  },
+  {
+   "scramble": "R2 F2 R2 F R U' R' F R' F R",
+   "scramble_length": 11,
+   "state": 1006098,
+   "optimal": 9,
+   "facelets": "BFDUFDULRLBFURDDRBLLRUFB"
+  },
+  {
+   "scramble": "U R' U' F R F2 U2 F2 R2 F R U",
+   "scramble_length": 12,
+   "state": 2879251,
+   "optimal": 7,
+   "facelets": "DBLFDUUUBLFFRRDLRULDRBFB"
+  },
+  {
+   "scramble": "U R U' F U' F R' U2 F2 U2 R' U'",
+   "scramble_length": 12,
+   "state": 3229034,
+   "optimal": 9,
+   "facelets": "FBUBDUFBRRDUFLDLDFLRRLUB"
+  },
+  {
+   "scramble": "F' R2 F2 U' F R' U' R U' R U R",
+   "scramble_length": 12,
+   "state": 745671,
+   "optimal": 9,
+   "facelets": "FFRFLLLBUUFUUBDRRBLRDDDB"
+  },
+  {
+   "scramble": "F2 R F' R F2 U' F R' U R2 F2 U2 F2",
+   "scramble_length": 13,
+   "state": 1869459,
+   "optimal": 10,
+   "facelets": "FDDRUBUDFBFBULDFLRLRRULB"
+  },
+  {
+   "scramble": "R' F' U2 R2 F' R U2 F2 U2 R' F' R2 U'",
+   "scramble_length": 13,
+   "state": 1495880,
+   "optimal": 9,
+   "facelets": "FBRLBUDUBUDFFLDLUDLRRRFB"
+  },
+  {
+   "scramble": "R F U2 R' U2 R F' R2 F' R2 U2 F' U2",
+   "scramble_length": 13,
+   "state": 2185522,
+   "optimal": 9,
+   "facelets": "RDRFRFUFFDBBRLDUBULULDLB"
+  },
+  {
+   "scramble": "R F2 R' U2 R2 U' R2 F' R' U2 F U R' U2",
+   "scramble_length": 14,
+   "state": 342785,
+   "optimal": 8,
+   "facelets": "RBRURUBFDFULFUDLBFLLRDDB"
+  },
+  {
+   "scramble": "F2 R2 F' R2 U F2 R' U' R' U' F2 U R2 F'",
+   "scramble_length": 14,
+   "state": 3003771,
+   "optimal": 9,
+   "facelets": "LBDFDURUFLFDUBDBURLRRFLB"
+  },
+  {
+   "scramble": "R F' U F2 R F U2 R F U' R F R F2",
+   "scramble_length": 14,
+   "state": 44785,
+   "optimal": 9,
+   "facelets": "FLUFUDBBFRRLBUDURLLDFDRB"
+  },
+  {
+   "scramble": "F2 R' F R2 U' R2 F R' U R2 F2 U2 F U2 R'",
+   "scramble_length": 15,
+   "state": 2397775,
+   "optimal": 8,
+   "facelets": "UFRDFRFFURRUBLDLLBLDUBDB"
+  },
+  {
+   "scramble": "F2 R2 F' R U2 R' U' R2 F R F' U2 R F2 U",
+   "scramble_length": 15,
+   "state": 810279,
+   "optimal": 9,
+   "facelets": "BRRLUBFFDFBRDUDLUFLRULDB"
+  },
+  {
+   "scramble": "U R' U F' U R' U2 R2 F2 U' F R F' U F",
+   "scramble_length": 15,
+   "state": 3644335,
+   "optimal": 8,
+   "facelets": "BLDDRFFBLBFRRUDLRFLDUUUB"
+  }
+ ]
+}
